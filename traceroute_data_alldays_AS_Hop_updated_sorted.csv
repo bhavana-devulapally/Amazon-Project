@@ -1,0 +1,798 @@
+IP,RTT1,RTT2,RTT3,Domain Name,Date,Hop Number,Run Number,AS Number,AS Name
+172.31.160.1,0.315ms,0.247ms,0.140ms,www.amazon.com,24-Nov,1,1,NA,NA
+172.20.10.1,2.892ms,2.689ms,2.563ms,www.amazon.com,24-Nov,2,1,NA,NA
+107.243.2.7,32.372ms,*,67.538ms,www.amazon.com,24-Nov,3,1,NA,NA
+32.141.57.134,91.773ms,45.626ms,53.707ms,www.amazon.com,24-Nov,9,1,7018,"ATT-INTERNET4, US"
+172.31.160.1,0.880ms,0.258ms,0.184ms,www.amazon.com,24-Nov,1,2,NA,NA
+172.20.10.1,2.019ms,2.013ms,1.706ms,www.amazon.com,24-Nov,2,2,NA,NA
+107.243.2.7,29.269ms,*,66.323ms,www.amazon.com,24-Nov,3,2,NA,NA
+172.31.160.1,0.276ms,0.162ms,0.099ms,www.amazon.com,24-Nov,1,3,NA,NA
+172.20.10.1,4.251ms,2.399ms,3.565ms,www.amazon.com,24-Nov,2,3,NA,NA
+107.243.2.7,291.712ms,*,60.935ms,www.amazon.com,24-Nov,3,3,NA,NA
+32.141.57.134,60.762ms,51.233ms,48.077ms,www.amazon.com,24-Nov,9,3,7018,"ATT-INTERNET4, US"
+172.31.160.1,0.849ms,0.387ms,0.362ms,www.amazon.com,24-Nov,1,4,NA,NA
+172.20.10.1,2.787ms,2.678ms,2.128ms,www.amazon.com,24-Nov,2,4,NA,NA
+107.243.2.135,39.179ms,*,101.129ms,www.amazon.com,24-Nov,3,4,,
+32.141.57.134,95.012ms,38.943ms,46.875ms,www.amazon.com,24-Nov,9,4,7018,"ATT-INTERNET4, US"
+172.31.160.1,0.427ms,0.290ms,0.253ms,www.amazon.com,24-Nov,1,5,NA,NA
+172.20.10.1,3.070ms,2.424ms,3.567ms,www.amazon.com,24-Nov,2,5,NA,NA
+107.243.2.135,28.276ms,*,56.279ms,www.amazon.com,24-Nov,3,5,NA,NA
+32.141.57.134,165.150ms,56.290ms,52.237ms,www.amazon.com,24-Nov,9,5,7018,"ATT-INTERNET4, US"
+172.31.160.1,0.446ms,0.151ms,0.135ms,www.amazon.com,24-Nov,1,6,NA,NA
+172.20.10.1,2.419ms,2.787ms,2.408ms,www.amazon.com,24-Nov,2,6,NA,NA
+107.243.2.7,50.294ms,*,61.802ms,www.amazon.com,24-Nov,3,6,NA,NA
+172.31.160.1,0.415ms,0.273ms,0.345ms,www.google.com,24-Nov,1,1,NA,NA
+172.20.10.1,4.004ms,3.488ms,3.238ms,www.google.com,24-Nov,2,1,NA,NA
+107.243.2.7,64.103ms,*,49.839ms,www.google.com,24-Nov,3,1,NA,NA
+12.255.10.34,93.224ms,45.823ms,48.397ms,www.google.com,24-Nov,10,1,7018,"ATT-INTERNET4, US"
+142.250.190.100,97.847ms,54.961ms,45.285ms,www.google.com,24-Nov,12,1,15169,"GOOGLE, US"
+172.31.160.1,0.167ms,0.117ms,0.103ms,www.google.com,24-Nov,1,2,NA,NA
+172.20.10.1,4.226ms,2.497ms,2.614ms,www.google.com,24-Nov,2,2,NA,NA
+107.243.2.7,63.507ms,*,66.948ms,www.google.com,24-Nov,3,2,NA,NA
+12.255.10.42,81.704ms,43.035ms,50.727ms,www.google.com,24-Nov,10,2,7018,"ATT-INTERNET4, US"
+142.250.190.100,92.505ms,43.106ms,43.554ms,www.google.com,24-Nov,12,2,15169,"GOOGLE, US"
+172.31.160.1,0.163ms,0.118ms,0.100ms,www.google.com,24-Nov,1,3,NA,NA
+172.20.10.1,4.677ms,3.536ms,2.556ms,www.google.com,24-Nov,2,3,NA,NA
+107.243.2.7,57.000ms,*,54.366ms,www.google.com,24-Nov,3,3,NA,NA
+12.255.10.36,87.329ms,43.777ms,48.917ms,www.google.com,24-Nov,10,3,7018,"ATT-INTERNET4, US"
+142.250.190.100,78.357ms,57.607ms,44.223ms,www.google.com,24-Nov,15,3,15169,"GOOGLE, US"
+172.31.160.1,0.168ms,0.140ms,0.119ms,www.google.com,24-Nov,1,4,NA,NA
+172.20.10.1,5.482ms,4.375ms,6.635ms,www.google.com,24-Nov,2,4,NA,NA
+107.243.2.135,79.965ms,*,69.783ms,www.google.com,24-Nov,3,4,NA,NA
+12.255.10.36,80.784ms,49.543ms,51.803ms,www.google.com,24-Nov,10,4,7018,"ATT-INTERNET4, US"
+142.251.60.210,89.430ms,*,47.059ms,www.google.com,24-Nov,12,4,15169,"GOOGLE, US"
+142.250.190.100,52.925ms,46.088ms,41.210ms,www.google.com,24-Nov,14,4,15169,"GOOGLE, US"
+172.31.160.1,0.303ms,0.229ms,0.135ms,www.google.com,24-Nov,1,5,NA,NA
+172.20.10.1,5.391ms,7.923ms,3.150ms,www.google.com,24-Nov,2,5,NA,NA
+107.243.2.135,64.845ms,*,66.868ms,www.google.com,24-Nov,3,5,NA,NA
+12.255.10.34,69.369ms,41.742ms,54.620ms,www.google.com,24-Nov,10,5,7018,"ATT-INTERNET4, US"
+142.251.60.10,78.339ms,40.546ms,39.885ms,www.google.com,24-Nov,12,5,15169,"GOOGLE, US"
+142.251.60.207,48.573ms,42.343ms,44.649ms,www.google.com,24-Nov,13,5,15169,"GOOGLE, US"
+142.251.234.69,44.440ms,48.821ms,48.645ms,www.google.com,24-Nov,14,5,15169,"GOOGLE, US"
+142.251.60.205,47.919ms,52.686ms,53.344ms,www.google.com,24-Nov,17,5,15169,"GOOGLE, US"
+142.250.190.100,50.275ms,52.732ms,40.463ms,www.google.com,24-Nov,18,5,15169,"GOOGLE, US"
+172.31.160.1,0.497ms,0.284ms,0.252ms,www.google.com,24-Nov,1,6,NA,NA
+172.20.10.1,2.254ms,2.308ms,3.280ms,www.google.com,24-Nov,2,6,NA,NA
+107.243.2.7,36.902ms,*,67.446ms,www.google.com,24-Nov,3,6,NA,NA
+12.255.10.34,62.394ms,73.934ms,61.194ms,www.google.com,24-Nov,10,6,7018,"ATT-INTERNET4, US"
+142.251.60.19,49.041ms,53.889ms,41.168ms,www.google.com,24-Nov,13,6,15169,"GOOGLE, US"
+142.250.191.228,55.255ms,40.074ms,57.809ms,www.google.com,24-Nov,14,6,15169,"GOOGLE, US"
+172.31.160.1,0.211ms,0.117ms,0.123ms,www.linkedin.com,24-Nov,1,1,NA,NA
+172.20.10.1,1.918ms,1.973ms,1.765ms,www.linkedin.com,24-Nov,2,1,NA,NA
+107.243.2.7,34.512ms,*,209.982ms,www.linkedin.com,24-Nov,3,1,NA,NA
+32.141.192.2,75.797ms,65.999ms,56.418ms,www.linkedin.com,24-Nov,10,1,7018,"ATT-INTERNET4, US"
+172.31.160.1,0.235ms,0.145ms,0.126ms,www.linkedin.com,24-Nov,1,2,NA,NA
+172.20.10.1,2.677ms,2.414ms,2.492ms,www.linkedin.com,24-Nov,2,2,NA,NA
+107.243.2.7,37.865ms,*,80.422ms,www.linkedin.com,24-Nov,3,2,NA,NA
+32.141.192.2,672.617ms,72.693ms,41.330ms,www.linkedin.com,24-Nov,10,2,7018,"ATT-INTERNET4, US"
+172.31.160.1,0.472ms,0.611ms,0.263ms,www.linkedin.com,24-Nov,1,3,NA,NA
+172.20.10.1,5.593ms,4.780ms,4.224ms,www.linkedin.com,24-Nov,2,3,NA,NA
+107.243.2.135,54.419ms,*,*,www.linkedin.com,24-Nov,3,3,NA,NA
+*,32.141.192.2,69.755ms,63.007ms,www.linkedin.com,24-Nov,10,3,,
+172.31.160.1,0.997ms,0.237ms,0.224ms,www.linkedin.com,24-Nov,1,4,NA,NA
+172.20.10.1,4.155ms,4.165ms,4.985ms,www.linkedin.com,24-Nov,2,4,NA,NA
+107.243.2.7,34.146ms,*,*,www.linkedin.com,24-Nov,3,4,NA,NA
+32.141.192.2,79.531ms,43.315ms,40.162ms,www.linkedin.com,24-Nov,10,4,7018,"ATT-INTERNET4, US"
+172.31.160.1,0.317ms,0.221ms,0.258ms,www.linkedin.com,24-Nov,1,5,NA,NA
+172.20.10.1,3.721ms,3.763ms,3.306ms,www.linkedin.com,24-Nov,2,5,NA,NA
+107.243.2.7,32.472ms,*,32.414ms,www.linkedin.com,24-Nov,3,5,NA,NA
+32.141.192.2,52.314ms,53.817ms,38.648ms,www.linkedin.com,24-Nov,10,5,7018,"ATT-INTERNET4, US"
+172.31.160.1,0.296ms,0.228ms,0.253ms,www.linkedin.com,24-Nov,1,6,NA,NA
+172.20.10.1,4.595ms,3.955ms,3.531ms,www.linkedin.com,24-Nov,2,6,NA,NA
+107.243.2.135,506.981ms,*,*,www.linkedin.com,24-Nov,3,6,NA,NA
+32.141.192.2,83.195ms,46.052ms,43.078ms,www.linkedin.com,24-Nov,10,6,7018,"ATT-INTERNET4, US"
+172.31.160.1,0.403ms,0.293ms,0.300ms,www.payments.pitt.edu,24-Nov,1,1,NA,NA
+172.20.10.1,9.687ms,2.474ms,12.595ms,www.payments.pitt.edu,24-Nov,2,1,NA,NA
+107.243.2.135,29.648ms,*,45.167ms,www.payments.pitt.edu,24-Nov,3,1,NA,NA
+89.149.136.181,73.548ms,49.145ms,53.934ms,www.payments.pitt.edu,24-Nov,10,1,3257,"GTT-BACKBONE GTT, US"
+208.116.221.142,54.501ms,71.350ms,47.545ms,www.payments.pitt.edu,24-Nov,11,1,3257,"GTT-BACKBONE GTT, US"
+64.58.254.229,59.828ms,59.856ms,70.382ms,www.payments.pitt.edu,24-Nov,12,1,33154,"DQECOM, US"
+64.58.254.49,57.164ms,52.226ms,53.222ms,www.payments.pitt.edu,24-Nov,13,1,33154,"DQECOM, US"
+136.142.2.162,95.039ms,50.819ms,56.287ms,www.payments.pitt.edu,24-Nov,15,1,4130,"UPITT-AS, US"
+136.142.253.237,57.547ms,75.601ms,63.551ms,www.payments.pitt.edu,24-Nov,16,1,4130,"UPITT-AS, US"
+136.142.156.140,86.274ms,52.339ms,54.708ms,www.payments.pitt.edu,24-Nov,17,1,4130,"UPITT-AS, US"
+172.31.160.1,0.199ms,0.108ms,0.099ms,www.payments.pitt.edu,24-Nov,1,2,NA,NA
+172.20.10.1,3.201ms,3.993ms,2.315ms,www.payments.pitt.edu,24-Nov,2,2,NA,NA
+107.243.2.7,51.717ms,*,63.351ms,www.payments.pitt.edu,24-Nov,3,2,NA,NA
+*,173.241.128.29,88.107ms,46.027ms,www.payments.pitt.edu,24-Nov,9,2,,
+89.149.136.181,76.253ms,*,*,www.payments.pitt.edu,24-Nov,10,2,3257,"GTT-BACKBONE GTT, US"
+208.116.221.142,98.415ms,51.381ms,65.290ms,www.payments.pitt.edu,24-Nov,11,2,3257,"GTT-BACKBONE GTT, US"
+64.58.254.229,63.303ms,*,*,www.payments.pitt.edu,24-Nov,12,2,33154,"DQECOM, US"
+64.58.254.49,390.645ms,*,*,www.payments.pitt.edu,24-Nov,13,2,33154,"DQECOM, US"
+136.142.2.162,71.612ms,50.349ms,59.910ms,www.payments.pitt.edu,24-Nov,15,2,4130,"UPITT-AS, US"
+136.142.253.237,54.207ms,53.180ms,59.805ms,www.payments.pitt.edu,24-Nov,16,2,4130,"UPITT-AS, US"
+136.142.156.140,70.830ms,60.843ms,46.025ms,www.payments.pitt.edu,24-Nov,17,2,4130,"UPITT-AS, US"
+172.31.160.1,0.279ms,0.247ms,0.210ms,www.payments.pitt.edu,24-Nov,1,3,NA,NA
+172.20.10.1,6.280ms,3.084ms,3.622ms,www.payments.pitt.edu,24-Nov,2,3,NA,NA
+107.243.2.135,52.124ms,*,32.980ms,www.payments.pitt.edu,24-Nov,3,3,NA,NA
+173.241.128.29,87.403ms,*,90.442ms,www.payments.pitt.edu,24-Nov,9,3,3257,"GTT-BACKBONE GTT, US"
+89.149.136.181,65.489ms,57.115ms,67.140ms,www.payments.pitt.edu,24-Nov,10,3,3257,"GTT-BACKBONE GTT, US"
+208.116.221.142,55.246ms,55.422ms,57.380ms,www.payments.pitt.edu,24-Nov,11,3,3257,"GTT-BACKBONE GTT, US"
+64.58.254.229,57.900ms,78.956ms,66.769ms,www.payments.pitt.edu,24-Nov,12,3,33154,"DQECOM, US"
+64.58.254.49,57.306ms,75.407ms,55.178ms,www.payments.pitt.edu,24-Nov,13,3,33154,"DQECOM, US"
+208.103.114.14,54.469ms,58.632ms,57.351ms,www.payments.pitt.edu,24-Nov,14,3,33154,"DQECOM, US"
+136.142.2.162,54.484ms,59.601ms,55.159ms,www.payments.pitt.edu,24-Nov,15,3,4130,"UPITT-AS, US"
+136.142.253.237,56.044ms,290.060ms,206.006ms,www.payments.pitt.edu,24-Nov,16,3,4130,"UPITT-AS, US"
+136.142.156.140,61.044ms,51.413ms,82.688ms,www.payments.pitt.edu,24-Nov,17,3,4130,"UPITT-AS, US"
+172.31.160.1,0.325ms,0.161ms,0.154ms,www.payments.pitt.edu,24-Nov,1,4,NA,NA
+172.20.10.1,4.390ms,2.498ms,2.375ms,www.payments.pitt.edu,24-Nov,2,4,NA,NA
+107.243.2.135,43.866ms,*,63.413ms,www.payments.pitt.edu,24-Nov,3,4,NA,NA
+*,173.241.128.29,64.527ms,*,www.payments.pitt.edu,24-Nov,9,4,,
+89.149.136.181,87.670ms,58.242ms,50.273ms,www.payments.pitt.edu,24-Nov,10,4,3257,"GTT-BACKBONE GTT, US"
+208.116.221.142,58.704ms,63.224ms,55.159ms,www.payments.pitt.edu,24-Nov,11,4,3257,"GTT-BACKBONE GTT, US"
+64.58.254.229,59.411ms,60.913ms,55.110ms,www.payments.pitt.edu,24-Nov,12,4,33154,"DQECOM, US"
+64.58.254.49,52.504ms,70.224ms,59.343ms,www.payments.pitt.edu,24-Nov,13,4,33154,"DQECOM, US"
+136.142.2.162,69.119ms,100.303ms,47.511ms,www.payments.pitt.edu,24-Nov,15,4,4130,"UPITT-AS, US"
+136.142.253.237,72.921ms,72.976ms,57.860ms,www.payments.pitt.edu,24-Nov,16,4,4130,"UPITT-AS, US"
+136.142.156.140,74.500ms,79.106ms,66.156ms,www.payments.pitt.edu,24-Nov,17,4,4130,"UPITT-AS, US"
+172.31.160.1,0.557ms,0.430ms,0.300ms,www.payments.pitt.edu,24-Nov,1,5,NA,NA
+172.20.10.1,2.445ms,2.370ms,2.417ms,www.payments.pitt.edu,24-Nov,2,5,NA,NA
+107.243.2.7,34.201ms,*,53.629ms,www.payments.pitt.edu,24-Nov,3,5,NA,NA
+173.241.128.29,47.726ms,50.686ms,42.988ms,www.payments.pitt.edu,24-Nov,9,5,3257,"GTT-BACKBONE GTT, US"
+89.149.136.181,80.011ms,75.816ms,70.507ms,www.payments.pitt.edu,24-Nov,10,5,3257,"GTT-BACKBONE GTT, US"
+208.116.221.142,59.807ms,57.105ms,50.627ms,www.payments.pitt.edu,24-Nov,11,5,3257,"GTT-BACKBONE GTT, US"
+64.58.254.229,51.969ms,53.695ms,53.433ms,www.payments.pitt.edu,24-Nov,12,5,33154,"DQECOM, US"
+64.58.254.49,51.084ms,52.241ms,1331.284ms,www.payments.pitt.edu,24-Nov,13,5,33154,"DQECOM, US"
+136.142.2.162,89.308ms,52.082ms,53.344ms,www.payments.pitt.edu,24-Nov,15,5,4130,"UPITT-AS, US"
+136.142.253.237,61.122ms,52.297ms,59.271ms,www.payments.pitt.edu,24-Nov,16,5,4130,"UPITT-AS, US"
+136.142.156.140,53.600ms,60.580ms,63.566ms,www.payments.pitt.edu,24-Nov,17,5,4130,"UPITT-AS, US"
+172.31.160.1,0.148ms,0.122ms,0.105ms,www.payments.pitt.edu,24-Nov,1,6,NA,NA
+172.20.10.1,2.595ms,2.367ms,2.931ms,www.payments.pitt.edu,24-Nov,2,6,NA,NA
+107.243.2.7,39.335ms,*,73.792ms,www.payments.pitt.edu,24-Nov,3,6,NA,NA
+*,89.149.136.181,382.876ms,85.605ms,www.payments.pitt.edu,24-Nov,10,6,,
+208.116.221.142,49.738ms,58.697ms,61.155ms,www.payments.pitt.edu,24-Nov,11,6,3257,"GTT-BACKBONE GTT, US"
+64.58.254.229,91.116ms,61.127ms,65.195ms,www.payments.pitt.edu,24-Nov,12,6,33154,"DQECOM, US"
+64.58.254.49,49.123ms,49.564ms,66.205ms,www.payments.pitt.edu,24-Nov,13,6,33154,"DQECOM, US"
+208.103.114.14,53.032ms,54.150ms,52.076ms,www.payments.pitt.edu,24-Nov,14,6,33154,"DQECOM, US"
+136.142.2.162,50.840ms,54.501ms,51.760ms,www.payments.pitt.edu,24-Nov,15,6,4130,"UPITT-AS, US"
+136.142.253.237,54.609ms,53.045ms,51.991ms,www.payments.pitt.edu,24-Nov,16,6,4130,"UPITT-AS, US"
+136.142.156.140,61.560ms,62.970ms,53.291ms,www.payments.pitt.edu,24-Nov,17,6,4130,"UPITT-AS, US"
+172.31.160.1,0.336ms,0.124ms,0.104ms,www.wikipedia.org,24-Nov,1,1,NA,NA
+172.20.10.1,2.307ms,2.210ms,2.145ms,www.wikipedia.org,24-Nov,2,1,NA,NA
+107.243.2.135,43.192ms,*,38.935ms,www.wikipedia.org,24-Nov,3,1,NA,NA
+172.31.160.1,0.195ms,0.107ms,0.307ms,www.wikipedia.org,24-Nov,1,2,NA,NA
+172.20.10.1,7.981ms,7.166ms,2.804ms,www.wikipedia.org,24-Nov,2,2,NA,NA
+107.243.2.135,44.675ms,*,47.662ms,www.wikipedia.org,24-Nov,3,2,NA,NA
+172.31.160.1,0.166ms,0.121ms,0.174ms,www.wikipedia.org,24-Nov,1,3,NA,NA
+172.20.10.1,3.779ms,15.005ms,9.689ms,www.wikipedia.org,24-Nov,2,3,NA,NA
+107.243.2.7,33.210ms,*,39.720ms,www.wikipedia.org,24-Nov,3,3,NA,NA
+172.31.160.1,0.159ms,0.099ms,0.089ms,www.wikipedia.org,24-Nov,1,4,NA,NA
+172.20.10.1,9.840ms,5.292ms,4.085ms,www.wikipedia.org,24-Nov,2,4,NA,NA
+107.243.2.7,31.512ms,*,41.337ms,www.wikipedia.org,24-Nov,3,4,NA,NA
+172.31.160.1,0.160ms,0.119ms,0.093ms,www.wikipedia.org,24-Nov,1,5,NA,NA
+172.20.10.1,4.580ms,11.124ms,2.719ms,www.wikipedia.org,24-Nov,2,5,NA,NA
+107.243.2.135,35.636ms,*,28.185ms,www.wikipedia.org,24-Nov,3,5,NA,NA
+172.31.160.1,0.219ms,0.164ms,0.156ms,www.wikipedia.org,24-Nov,1,6,NA,NA
+172.20.10.1,4.587ms,4.079ms,4.420ms,www.wikipedia.org,24-Nov,2,6,NA,NA
+107.243.2.135,37.521ms,*,68.854ms,www.wikipedia.org,24-Nov,3,6,NA,NA
+172.31.160.1,0.654ms,0.523ms,0.299ms,www.amazon.com,25-Nov,1,1,NA,NA
+172.20.10.1,2.466ms,2.197ms,2.154ms,www.amazon.com,25-Nov,2,1,NA,NA
+107.243.2.7,36.950ms,*,59.967ms,www.amazon.com,25-Nov,3,1,NA,NA
+172.31.160.1,0.625ms,0.308ms,0.406ms,www.amazon.com,25-Nov,1,2,NA,NA
+172.20.10.1,3.093ms,3.187ms,2.180ms,www.amazon.com,25-Nov,2,2,NA,NA
+107.243.2.7,38.322ms,*,61.132ms,www.amazon.com,25-Nov,3,2,NA,NA
+12.127.81.202,90.398ms,58.820ms,42.855ms,www.amazon.com,25-Nov,9,2,7018,"ATT-INTERNET4, US"
+172.31.160.1,0.592ms,0.436ms,0.492ms,www.amazon.com,25-Nov,1,3,NA,NA
+172.20.10.1,4.064ms,2.821ms,2.316ms,www.amazon.com,25-Nov,2,3,NA,NA
+107.243.2.7,43.970ms,*,355.724ms,www.amazon.com,25-Nov,3,3,NA,NA
+172.31.160.1,0.657ms,0.435ms,0.534ms,www.amazon.com,25-Nov,1,4,NA,NA
+172.20.10.1,2.749ms,2.398ms,2.288ms,www.amazon.com,25-Nov,2,4,NA,NA
+107.243.2.7,43.124ms,*,*,www.amazon.com,25-Nov,3,4,NA,NA
+172.31.160.1,0.752ms,0.293ms,0.149ms,www.amazon.com,25-Nov,1,5,NA,NA
+172.20.10.1,5.560ms,18.651ms,7.756ms,www.amazon.com,25-Nov,2,5,NA,NA
+107.243.2.7,38.748ms,*,40.224ms,www.amazon.com,25-Nov,3,5,NA,NA
+172.31.160.1,0.183ms,0.099ms,0.114ms,www.amazon.com,25-Nov,1,6,NA,NA
+172.20.10.1,1.708ms,1.949ms,1.639ms,www.amazon.com,25-Nov,2,6,NA,NA
+107.243.2.7,60.412ms,*,55.778ms,www.amazon.com,25-Nov,3,6,NA,NA
+172.31.160.1,0.765ms,0.612ms,0.636ms,www.google.com,25-Nov,1,1,NA,NA
+172.20.10.1,3.393ms,2.349ms,2.140ms,www.google.com,25-Nov,2,1,NA,NA
+107.243.2.135,42.596ms,*,63.471ms,www.google.com,25-Nov,3,1,NA,NA
+142.251.231.246,60.087ms,33.837ms,43.649ms,www.google.com,25-Nov,12,1,15169,"GOOGLE, US"
+142.251.60.205,46.272ms,50.911ms,39.630ms,www.google.com,25-Nov,13,1,15169,"GOOGLE, US"
+209.85.254.94,47.306ms,43.259ms,52.803ms,www.google.com,25-Nov,14,1,15169,"GOOGLE, US"
+142.250.190.100,38.309ms,34.703ms,41.552ms,www.google.com,25-Nov,16,1,15169,"GOOGLE, US"
+172.31.160.1,0.482ms,0.438ms,0.468ms,www.google.com,25-Nov,1,2,NA,NA
+172.20.10.1,2.618ms,2.281ms,2.091ms,www.google.com,25-Nov,2,2,NA,NA
+107.243.2.7,28.738ms,*,27.792ms,www.google.com,25-Nov,3,2,NA,NA
+142.251.60.207,102.933ms,148.870ms,41.836ms,www.google.com,25-Nov,13,2,15169,"GOOGLE, US"
+142.250.190.100,70.765ms,34.104ms,40.441ms,www.google.com,25-Nov,16,2,15169,"GOOGLE, US"
+172.31.160.1,0.455ms,0.230ms,0.254ms,www.google.com,25-Nov,1,3,NA,NA
+172.20.10.1,4.264ms,4.083ms,3.490ms,www.google.com,25-Nov,2,3,NA,NA
+107.243.2.7,59.429ms,*,29.807ms,www.google.com,25-Nov,3,3,NA,NA
+142.250.190.100,54.186ms,58.582ms,36.257ms,www.google.com,25-Nov,14,3,15169,"GOOGLE, US"
+172.31.160.1,0.663ms,0.629ms,0.430ms,www.google.com,25-Nov,1,4,NA,NA
+172.20.10.1,2.917ms,3.128ms,3.064ms,www.google.com,25-Nov,2,4,NA,NA
+107.243.2.7,30.773ms,*,55.545ms,www.google.com,25-Nov,3,4,NA,NA
+142.251.233.221,76.240ms,47.256ms,45.187ms,www.google.com,25-Nov,14,4,15169,"GOOGLE, US"
+172.217.5.4,69.320ms,37.346ms,45.464ms,www.google.com,25-Nov,16,4,15169,"GOOGLE, US"
+172.31.160.1,0.492ms,0.385ms,0.335ms,www.google.com,25-Nov,1,5,NA,NA
+172.20.10.1,2.999ms,2.324ms,2.147ms,www.google.com,25-Nov,2,5,NA,NA
+107.243.2.7,59.606ms,*,43.150ms,www.google.com,25-Nov,3,5,NA,NA
+172.217.5.4,42.221ms,36.723ms,44.527ms,www.google.com,25-Nov,14,5,15169,"GOOGLE, US"
+172.31.160.1,0.624ms,0.504ms,0.474ms,www.google.com,25-Nov,1,6,NA,NA
+172.20.10.1,3.403ms,2.695ms,2.611ms,www.google.com,25-Nov,2,6,NA,NA
+107.243.2.7,58.049ms,*,29.192ms,www.google.com,25-Nov,3,6,NA,NA
+142.251.60.22,61.287ms,48.353ms,33.331ms,www.google.com,25-Nov,12,6,15169,"GOOGLE, US"
+142.251.233.221,54.899ms,47.342ms,50.052ms,www.google.com,25-Nov,14,6,15169,"GOOGLE, US"
+172.217.5.4,64.730ms,34.570ms,38.934ms,www.google.com,25-Nov,16,6,15169,"GOOGLE, US"
+172.31.160.1,0.496ms,0.315ms,0.097ms,www.linkedin.com,25-Nov,1,1,NA,NA
+172.20.10.1,9.967ms,2.400ms,1.952ms,www.linkedin.com,25-Nov,2,1,NA,NA
+107.243.2.7,38.145ms,*,71.534ms,www.linkedin.com,25-Nov,3,1,NA,NA
+32.141.192.2,93.647ms,58.990ms,47.482ms,www.linkedin.com,25-Nov,10,1,7018,"ATT-INTERNET4, US"
+172.31.160.1,0.702ms,0.522ms,0.594ms,www.linkedin.com,25-Nov,1,2,NA,NA
+172.20.10.1,2.980ms,2.800ms,2.496ms,www.linkedin.com,25-Nov,2,2,NA,NA
+107.243.2.135,36.905ms,*,43.401ms,www.linkedin.com,25-Nov,3,2,NA,NA
+32.141.192.2,49.301ms,36.209ms,42.559ms,www.linkedin.com,25-Nov,10,2,7018,"ATT-INTERNET4, US"
+172.31.160.1,0.579ms,0.264ms,0.201ms,www.linkedin.com,25-Nov,1,3,NA,NA
+172.20.10.1,2.619ms,2.146ms,1.997ms,www.linkedin.com,25-Nov,2,3,NA,NA
+107.243.2.135,59.515ms,*,59.896ms,www.linkedin.com,25-Nov,3,3,NA,NA
+*,32.141.192.2,133.587ms,57.375ms,www.linkedin.com,25-Nov,10,3,,
+172.31.160.1,0.267ms,0.121ms,0.086ms,www.linkedin.com,25-Nov,1,4,NA,NA
+172.20.10.1,2.290ms,2.196ms,2.041ms,www.linkedin.com,25-Nov,2,4,NA,NA
+107.243.2.135,30.290ms,*,30.868ms,www.linkedin.com,25-Nov,3,4,NA,NA
+32.141.192.2,69.514ms,41.011ms,38.814ms,www.linkedin.com,25-Nov,10,4,7018,"ATT-INTERNET4, US"
+172.31.160.1,0.201ms,0.225ms,0.201ms,www.linkedin.com,25-Nov,1,5,NA,NA
+172.20.10.1,2.044ms,1.796ms,1.602ms,www.linkedin.com,25-Nov,2,5,NA,NA
+107.243.2.7,32.616ms,*,47.996ms,www.linkedin.com,25-Nov,3,5,NA,NA
+32.141.192.2,53.910ms,41.010ms,42.950ms,www.linkedin.com,25-Nov,10,5,7018,"ATT-INTERNET4, US"
+172.31.160.1,0.372ms,0.122ms,0.097ms,www.linkedin.com,25-Nov,1,6,NA,NA
+172.20.10.1,2.408ms,2.087ms,2.289ms,www.linkedin.com,25-Nov,2,6,NA,NA
+107.243.2.135,31.281ms,*,165.053ms,www.linkedin.com,25-Nov,3,6,NA,NA
+32.141.192.2,54.529ms,39.507ms,32.598ms,www.linkedin.com,25-Nov,10,6,7018,"ATT-INTERNET4, US"
+172.31.160.1,0.700ms,0.353ms,0.329ms,www.payments.pitt.edu,25-Nov,1,1,NA,NA
+172.20.10.1,4.005ms,3.249ms,2.660ms,www.payments.pitt.edu,25-Nov,2,1,NA,NA
+107.243.2.7,27.294ms,*,51.816ms,www.payments.pitt.edu,25-Nov,3,1,NA,NA
+173.241.128.29,93.033ms,62.367ms,51.810ms,www.payments.pitt.edu,25-Nov,9,1,3257,"GTT-BACKBONE GTT, US"
+89.149.136.181,47.697ms,54.900ms,50.862ms,www.payments.pitt.edu,25-Nov,10,1,3257,"GTT-BACKBONE GTT, US"
+208.116.221.142,52.840ms,56.320ms,53.068ms,www.payments.pitt.edu,25-Nov,11,1,3257,"GTT-BACKBONE GTT, US"
+64.58.254.229,52.847ms,50.766ms,66.348ms,www.payments.pitt.edu,25-Nov,12,1,33154,"DQECOM, US"
+64.58.254.49,52.427ms,50.826ms,49.098ms,www.payments.pitt.edu,25-Nov,13,1,33154,"DQECOM, US"
+208.103.114.14,59.549ms,54.991ms,55.055ms,www.payments.pitt.edu,25-Nov,14,1,33154,"DQECOM, US"
+136.142.2.162,56.276ms,53.432ms,53.013ms,www.payments.pitt.edu,25-Nov,15,1,4130,"UPITT-AS, US"
+136.142.253.237,54.990ms,59.968ms,52.852ms,www.payments.pitt.edu,25-Nov,16,1,4130,"UPITT-AS, US"
+136.142.156.140,61.110ms,65.776ms,55.323ms,www.payments.pitt.edu,25-Nov,17,1,4130,"UPITT-AS, US"
+172.31.160.1,0.264ms,0.141ms,0.182ms,www.payments.pitt.edu,25-Nov,1,2,NA,NA
+172.20.10.1,285.656ms,4.491ms,5.397ms,www.payments.pitt.edu,25-Nov,2,2,NA,NA
+*,173.241.128.29,72.651ms,42.904ms,www.payments.pitt.edu,25-Nov,9,2,,
+89.149.136.181,49.761ms,48.944ms,64.961ms,www.payments.pitt.edu,25-Nov,10,2,3257,"GTT-BACKBONE GTT, US"
+208.116.221.142,53.715ms,1905.544ms,49.767ms,www.payments.pitt.edu,25-Nov,11,2,3257,"GTT-BACKBONE GTT, US"
+64.58.254.229,135.368ms,66.272ms,72.754ms,www.payments.pitt.edu,25-Nov,12,2,33154,"DQECOM, US"
+64.58.254.49,58.630ms,66.380ms,59.288ms,www.payments.pitt.edu,25-Nov,13,2,33154,"DQECOM, US"
+136.142.2.162,92.810ms,49.807ms,52.062ms,www.payments.pitt.edu,25-Nov,15,2,4130,"UPITT-AS, US"
+136.142.253.237,75.674ms,53.175ms,53.944ms,www.payments.pitt.edu,25-Nov,16,2,4130,"UPITT-AS, US"
+136.142.156.140,57.744ms,59.515ms,55.235ms,www.payments.pitt.edu,25-Nov,17,2,4130,"UPITT-AS, US"
+172.31.160.1,0.150ms,0.062ms,0.069ms,www.payments.pitt.edu,25-Nov,1,3,NA,NA
+172.20.10.1,5.998ms,2.107ms,2.092ms,www.payments.pitt.edu,25-Nov,2,3,NA,NA
+107.243.2.7,51.729ms,*,64.146ms,www.payments.pitt.edu,25-Nov,3,3,NA,NA
+173.241.128.29,92.997ms,66.164ms,*,www.payments.pitt.edu,25-Nov,9,3,3257,"GTT-BACKBONE GTT, US"
+89.149.136.181,95.596ms,104.407ms,80.945ms,www.payments.pitt.edu,25-Nov,10,3,3257,"GTT-BACKBONE GTT, US"
+208.116.221.142,57.703ms,54.317ms,49.669ms,www.payments.pitt.edu,25-Nov,11,3,3257,"GTT-BACKBONE GTT, US"
+64.58.254.229,71.615ms,50.296ms,50.931ms,www.payments.pitt.edu,25-Nov,12,3,33154,"DQECOM, US"
+64.58.254.49,52.734ms,48.907ms,49.685ms,www.payments.pitt.edu,25-Nov,13,3,33154,"DQECOM, US"
+208.103.114.14,55.513ms,55.964ms,50.666ms,www.payments.pitt.edu,25-Nov,14,3,33154,"DQECOM, US"
+136.142.2.162,56.363ms,50.445ms,64.489ms,www.payments.pitt.edu,25-Nov,15,3,4130,"UPITT-AS, US"
+136.142.253.237,52.990ms,60.651ms,64.341ms,www.payments.pitt.edu,25-Nov,16,3,4130,"UPITT-AS, US"
+136.142.156.140,58.497ms,63.407ms,50.388ms,www.payments.pitt.edu,25-Nov,17,3,4130,"UPITT-AS, US"
+172.31.160.1,0.419ms,0.289ms,0.182ms,www.payments.pitt.edu,25-Nov,1,4,NA,NA
+172.20.10.1,2.399ms,2.017ms,1.888ms,www.payments.pitt.edu,25-Nov,2,4,NA,NA
+107.243.2.7,61.933ms,*,64.555ms,www.payments.pitt.edu,25-Nov,3,4,NA,NA
+173.241.128.29,42.110ms,40.332ms,39.304ms,www.payments.pitt.edu,25-Nov,9,4,3257,"GTT-BACKBONE GTT, US"
+89.149.136.181,51.598ms,50.711ms,63.208ms,www.payments.pitt.edu,25-Nov,10,4,3257,"GTT-BACKBONE GTT, US"
+208.116.221.142,51.279ms,54.431ms,53.413ms,www.payments.pitt.edu,25-Nov,11,4,3257,"GTT-BACKBONE GTT, US"
+64.58.254.229,49.358ms,55.576ms,53.109ms,www.payments.pitt.edu,25-Nov,12,4,33154,"DQECOM, US"
+64.58.254.49,54.707ms,51.721ms,53.545ms,www.payments.pitt.edu,25-Nov,13,4,33154,"DQECOM, US"
+208.103.114.14,49.013ms,55.403ms,51.273ms,www.payments.pitt.edu,25-Nov,14,4,33154,"DQECOM, US"
+136.142.2.162,71.393ms,51.775ms,52.035ms,www.payments.pitt.edu,25-Nov,15,4,4130,"UPITT-AS, US"
+136.142.253.237,51.820ms,52.883ms,53.313ms,www.payments.pitt.edu,25-Nov,16,4,4130,"UPITT-AS, US"
+136.142.156.140,54.593ms,65.257ms,52.928ms,www.payments.pitt.edu,25-Nov,17,4,4130,"UPITT-AS, US"
+172.31.160.1,0.454ms,0.298ms,0.249ms,www.payments.pitt.edu,25-Nov,1,5,NA,NA
+172.20.10.1,2.834ms,2.484ms,5.120ms,www.payments.pitt.edu,25-Nov,2,5,NA,NA
+107.243.2.7,33.702ms,*,50.887ms,www.payments.pitt.edu,25-Nov,3,5,NA,NA
+89.149.136.181,82.010ms,51.907ms,45.426ms,www.payments.pitt.edu,25-Nov,10,5,3257,"GTT-BACKBONE GTT, US"
+208.116.221.142,62.122ms,66.042ms,61.779ms,www.payments.pitt.edu,25-Nov,11,5,3257,"GTT-BACKBONE GTT, US"
+64.58.254.229,91.582ms,55.097ms,74.217ms,www.payments.pitt.edu,25-Nov,12,5,33154,"DQECOM, US"
+64.58.254.49,69.182ms,54.096ms,61.249ms,www.payments.pitt.edu,25-Nov,13,5,33154,"DQECOM, US"
+208.103.114.14,75.762ms,50.529ms,48.637ms,www.payments.pitt.edu,25-Nov,14,5,33154,"DQECOM, US"
+136.142.2.162,52.339ms,56.895ms,64.601ms,www.payments.pitt.edu,25-Nov,15,5,4130,"UPITT-AS, US"
+136.142.253.237,58.743ms,52.301ms,58.400ms,www.payments.pitt.edu,25-Nov,16,5,4130,"UPITT-AS, US"
+136.142.156.140,70.902ms,56.401ms,61.762ms,www.payments.pitt.edu,25-Nov,17,5,,
+172.31.160.1,0.180ms,0.098ms,0.096ms,www.payments.pitt.edu,25-Nov,1,6,NA,NA
+172.20.10.1,2.782ms,2.307ms,2.422ms,www.payments.pitt.edu,25-Nov,2,6,NA,NA
+107.243.2.135,50.036ms,*,55.431ms,www.payments.pitt.edu,25-Nov,3,6,NA,NA
+173.241.128.29,114.626ms,41.305ms,36.207ms,www.payments.pitt.edu,25-Nov,9,6,3257,"GTT-BACKBONE GTT, US"
+89.149.136.181,78.380ms,56.523ms,*,www.payments.pitt.edu,25-Nov,10,6,3257,"GTT-BACKBONE GTT, US"
+208.116.221.142,72.448ms,46.621ms,59.840ms,www.payments.pitt.edu,25-Nov,11,6,3257,"GTT-BACKBONE GTT, US"
+64.58.254.229,62.388ms,54.047ms,66.998ms,www.payments.pitt.edu,25-Nov,12,6,33154,"DQECOM, US"
+64.58.254.49,48.627ms,64.292ms,50.617ms,www.payments.pitt.edu,25-Nov,13,6,33154,"DQECOM, US"
+208.103.114.14,45.501ms,54.790ms,52.086ms,www.payments.pitt.edu,25-Nov,14,6,33154,"DQECOM, US"
+136.142.2.162,48.929ms,57.031ms,131.769ms,www.payments.pitt.edu,25-Nov,15,6,4130,"UPITT-AS, US"
+136.142.253.237,56.711ms,58.247ms,53.425ms,www.payments.pitt.edu,25-Nov,16,6,4130,"UPITT-AS, US"
+136.142.156.140,77.316ms,63.414ms,55.726ms,www.payments.pitt.edu,25-Nov,17,6,4130,"UPITT-AS, US"
+172.31.160.1,0.234ms,0.193ms,0.171ms,www.wikipedia.org,25-Nov,1,1,NA,NA
+172.20.10.1,12.218ms,13.269ms,3.616ms,www.wikipedia.org,25-Nov,2,1,NA,NA
+107.243.2.7,36.037ms,*,76.597ms,www.wikipedia.org,25-Nov,3,1,NA,NA
+172.31.160.1,0.676ms,0.474ms,0.565ms,www.wikipedia.org,25-Nov,1,2,NA,NA
+172.20.10.1,16.051ms,5.847ms,6.432ms,www.wikipedia.org,25-Nov,2,2,NA,NA
+107.243.2.135,56.426ms,*,37.659ms,www.wikipedia.org,25-Nov,3,2,NA,NA
+172.31.160.1,0.218ms,0.204ms,0.376ms,www.wikipedia.org,25-Nov,1,3,NA,NA
+172.20.10.1,4.918ms,2.727ms,2.723ms,www.wikipedia.org,25-Nov,2,3,NA,NA
+107.243.2.7,34.031ms,*,36.712ms,www.wikipedia.org,25-Nov,3,3,NA,NA
+172.31.160.1,0.789ms,0.472ms,0.248ms,www.wikipedia.org,25-Nov,1,4,NA,NA
+172.20.10.1,293.920ms,4.866ms,5.856ms,www.wikipedia.org,25-Nov,2,4,NA,NA
+*,107.243.2.135,59.558ms,*,www.wikipedia.org,25-Nov,3,4,,
+172.31.160.1,0.633ms,0.412ms,0.591ms,www.wikipedia.org,25-Nov,1,5,NA,NA
+172.20.10.1,2.505ms,3.482ms,3.583ms,www.wikipedia.org,25-Nov,2,5,NA,NA
+107.243.2.135,31.932ms,*,*,www.wikipedia.org,25-Nov,3,5,NA,NA
+172.31.160.1,0.177ms,0.090ms,0.095ms,www.wikipedia.org,25-Nov,1,6,NA,NA
+172.20.10.1,4.527ms,3.269ms,3.297ms,www.wikipedia.org,25-Nov,2,6,NA,NA
+107.243.2.7,59.027ms,*,32.174ms,www.wikipedia.org,25-Nov,3,6,NA,NA
+172.31.160.1,0.362ms,0.118ms,0.095ms,www.amazon.com,26-Nov,1,1,NA,NA
+172.20.10.1,2.614ms,2.433ms,2.500ms,www.amazon.com,26-Nov,2,1,NA,NA
+107.243.50.136,30.178ms,*,22.758ms,www.amazon.com,26-Nov,3,1,NA,NA
+172.31.160.1,0.544ms,0.514ms,0.279ms,www.amazon.com,26-Nov,1,2,NA,NA
+172.20.10.1,2.268ms,2.286ms,2.020ms,www.amazon.com,26-Nov,2,2,NA,NA
+107.243.50.136,37.680ms,*,42.038ms,www.amazon.com,26-Nov,3,2,NA,NA
+172.31.160.1,0.718ms,0.690ms,0.526ms,www.amazon.com,26-Nov,1,3,NA,NA
+172.20.10.1,2.783ms,2.212ms,2.160ms,www.amazon.com,26-Nov,2,3,NA,NA
+107.243.50.136,31.153ms,*,50.674ms,www.amazon.com,26-Nov,3,3,NA,NA
+172.31.160.1,0.731ms,0.484ms,0.552ms,www.amazon.com,26-Nov,1,4,NA,NA
+172.20.10.1,2.573ms,2.190ms,2.472ms,www.amazon.com,26-Nov,2,4,NA,NA
+107.243.50.136,38.399ms,*,51.980ms,www.amazon.com,26-Nov,3,4,NA,NA
+172.31.160.1,0.445ms,0.544ms,0.291ms,www.amazon.com,26-Nov,1,5,NA,NA
+172.20.10.1,2.311ms,2.146ms,2.091ms,www.amazon.com,26-Nov,2,5,NA,NA
+107.243.50.8,26.294ms,*,44.019ms,www.amazon.com,26-Nov,3,5,NA,NA
+172.31.160.1,0.672ms,0.536ms,0.276ms,www.amazon.com,26-Nov,1,6,NA,NA
+172.20.10.1,2.768ms,2.130ms,2.151ms,www.amazon.com,26-Nov,2,6,NA,NA
+107.243.50.8,38.828ms,*,*,www.amazon.com,26-Nov,3,6,NA,NA
+172.31.160.1,0.194ms,0.082ms,0.074ms,www.google.com,26-Nov,1,1,NA,NA
+172.20.10.1,4.037ms,2.540ms,2.085ms,www.google.com,26-Nov,2,1,NA,NA
+107.243.50.8,30.264ms,*,40.861ms,www.google.com,26-Nov,3,1,NA,NA
+12.255.10.42,73.853ms,41.984ms,42.125ms,www.google.com,26-Nov,10,1,7018,"ATT-INTERNET4, US"
+216.239.51.144,52.880ms,49.265ms,42.913ms,www.google.com,26-Nov,12,1,15169,"GOOGLE, US"
+142.250.191.100,69.556ms,37.667ms,43.887ms,www.google.com,26-Nov,14,1,15169,"GOOGLE, US"
+172.31.160.1,0.597ms,0.537ms,0.472ms,www.google.com,26-Nov,1,2,NA,NA
+172.20.10.1,3.014ms,2.446ms,2.286ms,www.google.com,26-Nov,2,2,NA,NA
+107.243.50.8,29.201ms,*,32.591ms,www.google.com,26-Nov,3,2,NA,NA
+12.255.10.42,37.468ms,40.151ms,*,www.google.com,26-Nov,10,2,7018,"ATT-INTERNET4, US"
+142.251.32.4,77.051ms,50.698ms,49.193ms,www.google.com,26-Nov,12,2,15169,"GOOGLE, US"
+172.31.160.1,0.169ms,0.114ms,0.098ms,www.google.com,26-Nov,1,3,NA,NA
+172.20.10.1,2.298ms,1.693ms,1.556ms,www.google.com,26-Nov,2,3,NA,NA
+107.243.50.136,56.987ms,*,60.760ms,www.google.com,26-Nov,3,3,NA,NA
+12.255.10.34,86.929ms,41.801ms,41.663ms,www.google.com,26-Nov,10,3,7018,"ATT-INTERNET4, US"
+142.251.32.4,47.201ms,59.731ms,50.430ms,www.google.com,26-Nov,12,3,15169,"GOOGLE, US"
+172.31.160.1,0.260ms,0.196ms,0.144ms,www.google.com,26-Nov,1,4,NA,NA
+172.20.10.1,2.689ms,1.943ms,2.292ms,www.google.com,26-Nov,2,4,NA,NA
+107.243.50.136,47.471ms,*,54.626ms,www.google.com,26-Nov,3,4,NA,NA
+12.255.10.42,53.438ms,36.208ms,44.119ms,www.google.com,26-Nov,10,4,7018,"ATT-INTERNET4, US"
+108.170.230.234,59.021ms,35.159ms,35.781ms,www.google.com,26-Nov,12,4,15169,"GOOGLE, US"
+142.251.32.4,50.914ms,42.819ms,36.150ms,www.google.com,26-Nov,14,4,15169,"GOOGLE, US"
+172.31.160.1,0.505ms,0.255ms,0.181ms,www.google.com,26-Nov,1,5,NA,NA
+172.20.10.1,2.384ms,2.032ms,2.091ms,www.google.com,26-Nov,2,5,NA,NA
+107.243.50.136,29.707ms,*,43.905ms,www.google.com,26-Nov,3,5,NA,NA
+12.255.10.36,57.695ms,36.237ms,52.265ms,www.google.com,26-Nov,10,5,7018,"ATT-INTERNET4, US"
+142.251.60.3,47.324ms,44.726ms,40.727ms,www.google.com,26-Nov,13,5,15169,"GOOGLE, US"
+142.250.191.100,51.491ms,42.633ms,43.561ms,www.google.com,26-Nov,14,5,15169,"GOOGLE, US"
+172.31.160.1,0.431ms,0.322ms,0.168ms,www.google.com,26-Nov,1,6,NA,NA
+172.20.10.1,8.187ms,7.218ms,5.896ms,www.google.com,26-Nov,2,6,NA,NA
+107.243.50.8,32.772ms,*,58.260ms,www.google.com,26-Nov,3,6,NA,NA
+12.255.10.36,60.320ms,55.826ms,46.977ms,www.google.com,26-Nov,10,6,7018,"ATT-INTERNET4, US"
+142.251.60.214,66.080ms,38.702ms,37.839ms,www.google.com,26-Nov,12,6,15169,"GOOGLE, US"
+142.251.60.23,34.376ms,42.152ms,43.525ms,www.google.com,26-Nov,13,6,15169,"GOOGLE, US"
+142.251.32.4,56.923ms,62.915ms,44.225ms,www.google.com,26-Nov,14,6,15169,"GOOGLE, US"
+172.31.160.1,0.510ms,0.494ms,0.573ms,www.linkedin.com,26-Nov,1,1,NA,NA
+172.20.10.1,2.471ms,1.943ms,1.943ms,www.linkedin.com,26-Nov,2,1,NA,NA
+107.243.2.3,51.562ms,*,67.094ms,www.linkedin.com,26-Nov,3,1,NA,NA
+*,*,32.141.192.2,64.178ms,www.linkedin.com,26-Nov,10,1,,
+172.31.160.1,0.462ms,0.343ms,0.355ms,www.linkedin.com,26-Nov,1,2,NA,NA
+172.20.10.1,2.747ms,2.680ms,2.481ms,www.linkedin.com,26-Nov,2,2,NA,NA
+107.243.2.131,28.584ms,*,52.121ms,www.linkedin.com,26-Nov,3,2,NA,NA
+32.141.192.2,126.624ms,124.915ms,49.825ms,www.linkedin.com,26-Nov,10,2,7018,"ATT-INTERNET4, US"
+172.31.160.1,0.583ms,0.630ms,0.511ms,www.linkedin.com,26-Nov,1,3,NA,NA
+172.20.10.1,3.261ms,2.794ms,6.811ms,www.linkedin.com,26-Nov,2,3,NA,NA
+107.243.2.131,37.530ms,*,34.217ms,www.linkedin.com,26-Nov,3,3,NA,NA
+32.141.192.2,80.217ms,46.347ms,40.495ms,www.linkedin.com,26-Nov,10,3,7018,"ATT-INTERNET4, US"
+172.31.160.1,0.683ms,0.557ms,0.552ms,www.linkedin.com,26-Nov,1,4,NA,NA
+172.20.10.1,3.920ms,2.599ms,3.745ms,www.linkedin.com,26-Nov,2,4,NA,NA
+107.243.2.131,36.239ms,*,37.600ms,www.linkedin.com,26-Nov,3,4,NA,NA
+32.141.192.2,54.378ms,*,*,www.linkedin.com,26-Nov,10,4,7018,"ATT-INTERNET4, US"
+172.31.160.1,0.378ms,0.235ms,0.159ms,www.linkedin.com,26-Nov,1,5,NA,NA
+172.20.10.1,2.298ms,2.146ms,2.148ms,www.linkedin.com,26-Nov,2,5,NA,NA
+107.243.2.3,33.124ms,*,47.078ms,www.linkedin.com,26-Nov,3,5,NA,NA
+32.141.192.2,55.264ms,48.261ms,54.894ms,www.linkedin.com,26-Nov,10,5,7018,"ATT-INTERNET4, US"
+172.31.160.1,0.571ms,0.538ms,0.486ms,www.linkedin.com,26-Nov,1,6,NA,NA
+172.20.10.1,2.719ms,3.138ms,2.932ms,www.linkedin.com,26-Nov,2,6,NA,NA
+107.243.2.3,135.531ms,*,63.824ms,www.linkedin.com,26-Nov,3,6,NA,NA
+32.141.192.2,77.498ms,64.247ms,50.586ms,www.linkedin.com,26-Nov,10,6,7018,"ATT-INTERNET4, US"
+172.31.160.1,0.158ms,0.111ms,0.093ms,www.payments.pitt.edu,26-Nov,1,1,NA,NA
+172.20.10.1,2.243ms,2.107ms,2.116ms,www.payments.pitt.edu,26-Nov,2,1,NA,NA
+107.243.2.131,41.480ms,*,36.848ms,www.payments.pitt.edu,26-Nov,3,1,NA,NA
+173.241.128.29,82.172ms,51.095ms,53.941ms,www.payments.pitt.edu,26-Nov,9,1,3257,"GTT-BACKBONE GTT, US"
+89.149.136.181,65.569ms,52.165ms,52.318ms,www.payments.pitt.edu,26-Nov,10,1,3257,"GTT-BACKBONE GTT, US"
+208.116.221.142,63.279ms,59.513ms,80.398ms,www.payments.pitt.edu,26-Nov,11,1,3257,"GTT-BACKBONE GTT, US"
+64.58.254.229,63.855ms,64.454ms,64.585ms,www.payments.pitt.edu,26-Nov,12,1,33154,"DQECOM, US"
+64.58.254.49,60.222ms,90.528ms,84.814ms,www.payments.pitt.edu,26-Nov,13,1,33154,"DQECOM, US"
+136.142.2.162,90.282ms,65.480ms,117.261ms,www.payments.pitt.edu,26-Nov,15,1,4130,"UPITT-AS, US"
+136.142.253.237,62.166ms,87.435ms,52.729ms,www.payments.pitt.edu,26-Nov,16,1,4130,"UPITT-AS, US"
+136.142.156.140,63.183ms,79.451ms,57.365ms,www.payments.pitt.edu,26-Nov,17,1,4130,"UPITT-AS, US"
+172.31.160.1,0.504ms,0.190ms,0.152ms,www.payments.pitt.edu,26-Nov,1,2,NA,NA
+172.20.10.1,2.853ms,1.575ms,1.589ms,www.payments.pitt.edu,26-Nov,2,2,NA,NA
+107.243.2.3,34.500ms,*,61.321ms,www.payments.pitt.edu,26-Nov,3,2,NA,NA
+89.149.136.181,107.668ms,67.411ms,81.197ms,www.payments.pitt.edu,26-Nov,10,2,3257,"GTT-BACKBONE GTT, US"
+208.116.221.142,59.177ms,65.196ms,56.346ms,www.payments.pitt.edu,26-Nov,11,2,3257,"GTT-BACKBONE GTT, US"
+64.58.254.229,57.502ms,58.423ms,86.319ms,www.payments.pitt.edu,26-Nov,12,2,33154,"DQECOM, US"
+64.58.254.49,60.360ms,90.417ms,71.100ms,www.payments.pitt.edu,26-Nov,13,2,33154,"DQECOM, US"
+136.142.2.162,216.266ms,107.299ms,64.885ms,www.payments.pitt.edu,26-Nov,15,2,4130,"UPITT-AS, US"
+136.142.253.237,63.471ms,60.511ms,59.856ms,www.payments.pitt.edu,26-Nov,16,2,4130,"UPITT-AS, US"
+136.142.156.140,67.559ms,64.996ms,61.976ms,www.payments.pitt.edu,26-Nov,17,2,4130,"UPITT-AS, US"
+172.31.160.1,0.437ms,0.382ms,0.369ms,www.payments.pitt.edu,26-Nov,1,3,NA,NA
+172.20.10.1,2.891ms,3.189ms,2.411ms,www.payments.pitt.edu,26-Nov,2,3,NA,NA
+107.243.2.3,65.111ms,*,38.379ms,www.payments.pitt.edu,26-Nov,3,3,NA,NA
+173.241.128.29,103.638ms,*,*,www.payments.pitt.edu,26-Nov,9,3,3257,"GTT-BACKBONE GTT, US"
+89.149.136.181,132.953ms,121.769ms,82.937ms,www.payments.pitt.edu,26-Nov,10,3,3257,"GTT-BACKBONE GTT, US"
+208.116.221.142,63.278ms,68.628ms,63.071ms,www.payments.pitt.edu,26-Nov,11,3,3257,"GTT-BACKBONE GTT, US"
+64.58.254.229,65.767ms,57.780ms,66.082ms,www.payments.pitt.edu,26-Nov,12,3,33154,"DQECOM, US"
+64.58.254.49,67.473ms,64.346ms,81.103ms,www.payments.pitt.edu,26-Nov,13,3,33154,"DQECOM, US"
+208.103.114.14,82.177ms,74.303ms,91.987ms,www.payments.pitt.edu,26-Nov,14,3,33154,"DQECOM, US"
+136.142.2.162,77.619ms,78.997ms,77.627ms,www.payments.pitt.edu,26-Nov,15,3,4130,"UPITT-AS, US"
+136.142.253.237,77.278ms,427.466ms,60.758ms,www.payments.pitt.edu,26-Nov,16,3,4130,"UPITT-AS, US"
+136.142.156.140,65.615ms,69.254ms,137.226ms,www.payments.pitt.edu,26-Nov,17,3,4130,"UPITT-AS, US"
+172.31.160.1,0.176ms,0.078ms,0.065ms,www.payments.pitt.edu,26-Nov,1,4,NA,NA
+172.20.10.1,3.204ms,2.112ms,1.845ms,www.payments.pitt.edu,26-Nov,2,4,NA,NA
+107.243.2.3,40.133ms,*,69.124ms,www.payments.pitt.edu,26-Nov,3,4,NA,NA
+173.241.128.29,102.065ms,53.393ms,74.861ms,www.payments.pitt.edu,26-Nov,9,4,3257,"GTT-BACKBONE GTT, US"
+89.149.136.181,60.050ms,56.374ms,57.012ms,www.payments.pitt.edu,26-Nov,10,4,3257,"GTT-BACKBONE GTT, US"
+208.116.221.142,59.360ms,68.527ms,61.702ms,www.payments.pitt.edu,26-Nov,11,4,3257,"GTT-BACKBONE GTT, US"
+64.58.254.229,90.466ms,57.959ms,59.914ms,www.payments.pitt.edu,26-Nov,12,4,33154,"DQECOM, US"
+64.58.254.49,58.615ms,70.947ms,58.358ms,www.payments.pitt.edu,26-Nov,13,4,33154,"DQECOM, US"
+208.103.114.14,61.206ms,66.273ms,71.724ms,www.payments.pitt.edu,26-Nov,14,4,33154,"DQECOM, US"
+136.142.2.162,65.728ms,61.891ms,61.121ms,www.payments.pitt.edu,26-Nov,15,4,4130,"UPITT-AS, US"
+136.142.253.237,76.907ms,63.132ms,62.506ms,www.payments.pitt.edu,26-Nov,16,4,4130,"UPITT-AS, US"
+136.142.156.140,60.171ms,64.649ms,63.940ms,www.payments.pitt.edu,26-Nov,17,4,4130,"UPITT-AS, US"
+172.31.160.1,0.537ms,0.564ms,0.547ms,www.payments.pitt.edu,26-Nov,1,5,NA,NA
+172.20.10.1,12.117ms,3.249ms,2.800ms,www.payments.pitt.edu,26-Nov,2,5,NA,NA
+107.243.2.131,57.235ms,*,64.137ms,www.payments.pitt.edu,26-Nov,3,5,NA,NA
+89.149.136.181,88.665ms,71.489ms,58.784ms,www.payments.pitt.edu,26-Nov,10,5,3257,"GTT-BACKBONE GTT, US"
+208.116.221.142,62.480ms,59.251ms,62.469ms,www.payments.pitt.edu,26-Nov,11,5,3257,"GTT-BACKBONE GTT, US"
+64.58.254.229,89.603ms,58.541ms,51.366ms,www.payments.pitt.edu,26-Nov,12,5,33154,"DQECOM, US"
+64.58.254.49,59.708ms,64.965ms,65.689ms,www.payments.pitt.edu,26-Nov,13,5,33154,"DQECOM, US"
+136.142.2.162,72.379ms,56.252ms,64.403ms,www.payments.pitt.edu,26-Nov,15,5,4130,"UPITT-AS, US"
+136.142.253.237,66.080ms,61.218ms,74.222ms,www.payments.pitt.edu,26-Nov,16,5,4130,"UPITT-AS, US"
+136.142.156.140,85.792ms,77.837ms,62.087ms,www.payments.pitt.edu,26-Nov,17,5,4130,"UPITT-AS, US"
+172.31.160.1,0.380ms,0.285ms,0.423ms,www.payments.pitt.edu,26-Nov,1,6,NA,NA
+172.20.10.1,3.088ms,2.310ms,2.127ms,www.payments.pitt.edu,26-Nov,2,6,NA,NA
+107.243.2.3,45.332ms,*,49.509ms,www.payments.pitt.edu,26-Nov,3,6,NA,NA
+173.241.128.29,94.342ms,49.110ms,53.196ms,www.payments.pitt.edu,26-Nov,9,6,3257,"GTT-BACKBONE GTT, US"
+89.149.136.181,52.199ms,320.497ms,76.356ms,www.payments.pitt.edu,26-Nov,10,6,3257,"GTT-BACKBONE GTT, US"
+208.116.221.142,60.762ms,70.812ms,50.205ms,www.payments.pitt.edu,26-Nov,11,6,3257,"GTT-BACKBONE GTT, US"
+64.58.254.229,53.626ms,61.891ms,65.389ms,www.payments.pitt.edu,26-Nov,12,6,33154,"DQECOM, US"
+64.58.254.49,82.909ms,63.035ms,62.305ms,www.payments.pitt.edu,26-Nov,13,6,33154,"DQECOM, US"
+136.142.2.162,99.858ms,60.601ms,77.324ms,www.payments.pitt.edu,26-Nov,15,6,4130,"UPITT-AS, US"
+136.142.253.237,61.872ms,75.052ms,66.664ms,www.payments.pitt.edu,26-Nov,16,6,4130,"UPITT-AS, US"
+136.142.156.140,75.373ms,71.200ms,63.633ms,www.payments.pitt.edu,26-Nov,17,6,4130,"UPITT-AS, US"
+172.31.160.1,0.305ms,0.189ms,0.208ms,www.wikipedia.org,26-Nov,1,1,NA,NA
+172.20.10.1,2.352ms,2.284ms,1.824ms,www.wikipedia.org,26-Nov,2,1,NA,NA
+107.243.2.131,35.732ms,*,43.720ms,www.wikipedia.org,26-Nov,3,1,NA,NA
+172.31.160.1,0.644ms,0.392ms,0.468ms,www.wikipedia.org,26-Nov,1,2,NA,NA
+172.20.10.1,5.359ms,2.527ms,2.311ms,www.wikipedia.org,26-Nov,2,2,NA,NA
+107.243.2.131,40.486ms,*,46.195ms,www.wikipedia.org,26-Nov,3,2,NA,NA
+172.31.160.1,0.299ms,0.268ms,0.215ms,www.wikipedia.org,26-Nov,1,3,NA,NA
+172.20.10.1,3.476ms,2.312ms,2.187ms,www.wikipedia.org,26-Nov,2,3,NA,NA
+107.243.2.131,46.380ms,*,53.951ms,www.wikipedia.org,26-Nov,3,3,NA,NA
+172.31.160.1,0.479ms,0.365ms,0.168ms,www.wikipedia.org,26-Nov,1,4,NA,NA
+172.20.10.1,3.142ms,2.831ms,2.433ms,www.wikipedia.org,26-Nov,2,4,NA,NA
+107.243.2.3,33.970ms,*,47.885ms,www.wikipedia.org,26-Nov,3,4,NA,NA
+172.31.160.1,0.385ms,0.324ms,0.421ms,www.wikipedia.org,26-Nov,1,5,NA,NA
+172.20.10.1,3.720ms,3.646ms,2.942ms,www.wikipedia.org,26-Nov,2,5,NA,NA
+107.243.2.131,33.088ms,*,54.611ms,www.wikipedia.org,26-Nov,3,5,NA,NA
+172.31.160.1,0.404ms,0.305ms,0.391ms,www.wikipedia.org,26-Nov,1,6,NA,NA
+172.20.10.1,2.157ms,2.068ms,2.456ms,www.wikipedia.org,26-Nov,2,6,NA,NA
+107.243.2.3,40.648ms,*,42.779ms,www.wikipedia.org,26-Nov,3,6,NA,NA
+172.21.64.1,0.472ms,0.390ms,0.353ms,www.amazon.com,27-Nov,1,1,NA,NA
+172.20.10.1,6.112ms,1.963ms,2.397ms,www.amazon.com,27-Nov,2,1,NA,NA
+107.243.50.141,26.928ms,*,57.196ms,www.amazon.com,27-Nov,3,1,NA,NA
+172.21.64.1,0.180ms,0.149ms,0.112ms,www.amazon.com,27-Nov,1,2,NA,NA
+172.20.10.1,3.086ms,2.387ms,2.690ms,www.amazon.com,27-Nov,2,2,NA,NA
+*,107.243.50.141,69.940ms,*,www.amazon.com,27-Nov,3,2,,
+172.21.64.1,0.401ms,0.149ms,0.164ms,www.amazon.com,27-Nov,1,3,NA,NA
+172.20.10.1,3.800ms,3.754ms,3.207ms,www.amazon.com,27-Nov,2,3,NA,NA
+107.243.50.13,37.846ms,*,66.593ms,www.amazon.com,27-Nov,3,3,NA,NA
+172.21.64.1,0.343ms,0.283ms,0.185ms,www.amazon.com,27-Nov,1,4,NA,NA
+172.20.10.1,2.378ms,2.684ms,2.320ms,www.amazon.com,27-Nov,2,4,NA,NA
+107.243.50.13,31.803ms,*,54.593ms,www.amazon.com,27-Nov,3,4,NA,NA
+172.21.64.1,0.172ms,0.107ms,0.155ms,www.amazon.com,27-Nov,1,5,NA,NA
+172.20.10.1,2.441ms,7.874ms,2.417ms,www.amazon.com,27-Nov,2,5,NA,NA
+107.243.50.141,28.501ms,*,72.325ms,www.amazon.com,27-Nov,3,5,NA,NA
+172.21.64.1,0.393ms,0.209ms,0.163ms,www.amazon.com,27-Nov,1,6,NA,NA
+172.20.10.1,2.640ms,2.823ms,3.005ms,www.amazon.com,27-Nov,2,6,NA,NA
+107.243.50.141,30.264ms,*,60.075ms,www.amazon.com,27-Nov,3,6,NA,NA
+172.21.64.1,0.210ms,0.135ms,0.096ms,www.google.com,27-Nov,1,1,NA,NA
+172.20.10.1,2.523ms,2.242ms,2.355ms,www.google.com,27-Nov,2,1,NA,NA
+107.243.50.141,28.222ms,*,23.482ms,www.google.com,27-Nov,3,1,NA,NA
+12.255.10.34,55.202ms,53.642ms,47.284ms,www.google.com,27-Nov,10,1,7018,"ATT-INTERNET4, US"
+142.251.60.214,47.284ms,54.227ms,43.746ms,www.google.com,27-Nov,12,1,15169,"GOOGLE, US"
+142.250.191.228,38.445ms,59.064ms,40.380ms,www.google.com,27-Nov,13,1,15169,"GOOGLE, US"
+172.21.64.1,0.319ms,0.250ms,0.557ms,www.google.com,27-Nov,1,2,NA,NA
+172.20.10.1,2.735ms,2.636ms,2.438ms,www.google.com,27-Nov,2,2,NA,NA
+107.243.50.13,37.467ms,*,35.602ms,www.google.com,27-Nov,3,2,NA,NA
+12.255.10.42,53.132ms,45.346ms,37.273ms,www.google.com,27-Nov,10,2,7018,"ATT-INTERNET4, US"
+142.251.61.40,48.487ms,39.254ms,49.787ms,www.google.com,27-Nov,12,2,15169,"GOOGLE, US"
+142.250.191.100,46.150ms,47.891ms,43.070ms,www.google.com,27-Nov,13,2,15169,"GOOGLE, US"
+172.21.64.1,0.499ms,0.331ms,0.218ms,www.google.com,27-Nov,1,3,NA,NA
+172.20.10.1,3.252ms,13.400ms,2.750ms,www.google.com,27-Nov,2,3,NA,NA
+107.243.50.141,28.749ms,*,40.481ms,www.google.com,27-Nov,3,3,NA,NA
+12.255.10.36,49.752ms,39.744ms,48.937ms,www.google.com,27-Nov,10,3,7018,"ATT-INTERNET4, US"
+142.251.60.23,48.683ms,51.185ms,48.851ms,www.google.com,27-Nov,13,3,15169,"GOOGLE, US"
+209.85.250.146,82.976ms,44.669ms,40.592ms,www.google.com,27-Nov,14,3,15169,"GOOGLE, US"
+142.251.32.4,46.791ms,60.739ms,53.353ms,www.google.com,27-Nov,15,3,15169,"GOOGLE, US"
+172.21.64.1,0.739ms,0.799ms,0.793ms,www.google.com,27-Nov,1,4,NA,NA
+172.20.10.1,5.168ms,3.244ms,3.098ms,www.google.com,27-Nov,2,4,NA,NA
+107.243.50.13,32.135ms,*,113.565ms,www.google.com,27-Nov,3,4,NA,NA
+12.255.10.34,47.261ms,68.239ms,41.532ms,www.google.com,27-Nov,10,4,7018,"ATT-INTERNET4, US"
+142.251.60.18,97.565ms,43.039ms,46.935ms,www.google.com,27-Nov,12,4,15169,"GOOGLE, US"
+209.85.250.146,48.734ms,51.328ms,43.595ms,www.google.com,27-Nov,14,4,15169,"GOOGLE, US"
+142.251.32.4,35.491ms,45.159ms,44.641ms,www.google.com,27-Nov,15,4,15169,"GOOGLE, US"
+172.21.64.1,0.162ms,0.119ms,0.098ms,www.google.com,27-Nov,1,5,NA,NA
+172.20.10.1,5.053ms,3.723ms,5.413ms,www.google.com,27-Nov,2,5,NA,NA
+107.243.50.141,38.670ms,*,30.924ms,www.google.com,27-Nov,3,5,NA,NA
+12.255.10.42,72.876ms,51.018ms,65.347ms,www.google.com,27-Nov,10,5,7018,"ATT-INTERNET4, US"
+142.251.60.10,52.580ms,38.169ms,40.933ms,www.google.com,27-Nov,12,5,15169,"GOOGLE, US"
+142.251.32.4,52.769ms,51.465ms,54.328ms,www.google.com,27-Nov,14,5,15169,"GOOGLE, US"
+172.21.64.1,0.250ms,0.162ms,0.164ms,www.google.com,27-Nov,1,6,NA,NA
+*,172.20.10.1,22.433ms,11.040ms,www.google.com,27-Nov,2,6,,
+107.243.50.141,50.298ms,*,45.916ms,www.google.com,27-Nov,3,6,NA,NA
+12.255.10.36,45.855ms,51.008ms,63.264ms,www.google.com,27-Nov,10,6,7018,"ATT-INTERNET4, US"
+142.251.60.210,51.793ms,39.258ms,52.282ms,www.google.com,27-Nov,12,6,15169,"GOOGLE, US"
+142.251.32.4,43.484ms,115.340ms,66.428ms,www.google.com,27-Nov,15,6,15169,"GOOGLE, US"
+172.21.64.1,0.424ms,0.399ms,0.445ms,www.linkedin.com,27-Nov,1,1,NA,NA
+172.20.10.1,10.415ms,3.371ms,3.098ms,www.linkedin.com,27-Nov,2,1,NA,NA
+107.243.50.13,38.355ms,*,56.670ms,www.linkedin.com,27-Nov,3,1,NA,NA
+172.21.64.1,0.483ms,0.427ms,0.358ms,www.linkedin.com,27-Nov,1,2,NA,NA
+172.20.10.1,2.968ms,2.915ms,3.129ms,www.linkedin.com,27-Nov,2,2,NA,NA
+107.243.50.13,36.935ms,*,63.744ms,www.linkedin.com,27-Nov,3,2,NA,NA
+32.141.192.2,76.229ms,*,*,www.linkedin.com,27-Nov,10,2,7018,"ATT-INTERNET4, US"
+172.21.64.1,0.583ms,0.261ms,0.195ms,www.linkedin.com,27-Nov,1,3,NA,NA
+172.20.10.1,34.009ms,2.980ms,4.347ms,www.linkedin.com,27-Nov,2,3,NA,NA
+107.243.50.13,42.956ms,*,44.925ms,www.linkedin.com,27-Nov,3,3,NA,NA
+172.21.64.1,0.425ms,0.550ms,0.685ms,www.linkedin.com,27-Nov,1,4,NA,NA
+172.20.10.1,42.002ms,8.659ms,12.247ms,www.linkedin.com,27-Nov,2,4,NA,NA
+107.243.50.141,52.591ms,*,89.525ms,www.linkedin.com,27-Nov,3,4,NA,NA
+104.44.237.19,60.489ms,47.422ms,70.246ms,www.linkedin.com,27-Nov,11,4,8075,"MICROSOFT-CORP-MSN-AS-BLOCK, US"
+104.44.236.20,54.544ms,42.823ms,*,www.linkedin.com,27-Nov,12,4,8075,"MICROSOFT-CORP-MSN-AS-BLOCK, US"
+172.21.64.1,0.539ms,0.371ms,0.337ms,www.linkedin.com,27-Nov,1,5,NA,NA
+172.20.10.1,4.025ms,9.121ms,2.990ms,www.linkedin.com,27-Nov,2,5,NA,NA
+107.243.50.141,44.741ms,*,37.853ms,www.linkedin.com,27-Nov,3,5,NA,NA
+32.141.192.2,85.904ms,43.071ms,*,www.linkedin.com,27-Nov,10,5,7018,"ATT-INTERNET4, US"
+172.21.64.1,0.758ms,0.620ms,0.610ms,www.linkedin.com,27-Nov,1,6,NA,NA
+172.20.10.1,3.638ms,3.567ms,2.886ms,www.linkedin.com,27-Nov,2,6,NA,NA
+107.243.50.13,30.877ms,*,66.928ms,www.linkedin.com,27-Nov,3,6,NA,NA
+172.21.64.1,0.486ms,0.192ms,0.470ms,www.payments.pitt.edu,27-Nov,1,1,NA,NA
+172.20.10.1,5.292ms,4.323ms,3.125ms,www.payments.pitt.edu,27-Nov,2,1,NA,NA
+107.243.50.13,46.083ms,*,35.965ms,www.payments.pitt.edu,27-Nov,3,1,NA,NA
+89.149.136.181,82.009ms,67.904ms,56.545ms,www.payments.pitt.edu,27-Nov,10,1,3257,"GTT-BACKBONE GTT, US"
+208.116.221.142,60.950ms,53.051ms,54.697ms,www.payments.pitt.edu,27-Nov,11,1,3257,"GTT-BACKBONE GTT, US"
+64.58.254.229,53.226ms,62.918ms,81.826ms,www.payments.pitt.edu,27-Nov,12,1,33154,"DQECOM, US"
+64.58.254.49,57.010ms,54.973ms,53.904ms,www.payments.pitt.edu,27-Nov,13,1,33154,"DQECOM, US"
+136.142.2.162,50.613ms,54.242ms,60.363ms,www.payments.pitt.edu,27-Nov,15,1,4130,"UPITT-AS, US"
+136.142.253.237,50.298ms,49.176ms,48.949ms,www.payments.pitt.edu,27-Nov,16,1,4130,"UPITT-AS, US"
+136.142.156.140,50.981ms,54.055ms,52.623ms,www.payments.pitt.edu,27-Nov,17,1,4130,"UPITT-AS, US"
+172.21.64.1,0.466ms,0.415ms,0.261ms,www.payments.pitt.edu,27-Nov,1,2,NA,NA
+172.20.10.1,5.847ms,5.654ms,2.412ms,www.payments.pitt.edu,27-Nov,2,2,NA,NA
+107.243.50.141,66.046ms,*,83.014ms,www.payments.pitt.edu,27-Nov,3,2,NA,NA
+89.149.136.181,101.899ms,57.751ms,75.792ms,www.payments.pitt.edu,27-Nov,10,2,3257,"GTT-BACKBONE GTT, US"
+208.116.221.142,75.312ms,59.237ms,66.982ms,www.payments.pitt.edu,27-Nov,11,2,3257,"GTT-BACKBONE GTT, US"
+64.58.254.229,61.075ms,65.934ms,60.368ms,www.payments.pitt.edu,27-Nov,12,2,33154,"DQECOM, US"
+64.58.254.49,70.195ms,68.516ms,57.881ms,www.payments.pitt.edu,27-Nov,13,2,33154,"DQECOM, US"
+136.142.2.162,88.713ms,78.440ms,59.984ms,www.payments.pitt.edu,27-Nov,15,2,4130,"UPITT-AS, US"
+136.142.253.237,65.457ms,69.679ms,58.047ms,www.payments.pitt.edu,27-Nov,16,2,4130,"UPITT-AS, US"
+136.142.156.140,71.306ms,62.909ms,53.612ms,www.payments.pitt.edu,27-Nov,17,2,4130,"UPITT-AS, US"
+172.21.64.1,0.375ms,0.288ms,0.162ms,www.payments.pitt.edu,27-Nov,1,3,NA,NA
+172.20.10.1,5.054ms,3.138ms,2.298ms,www.payments.pitt.edu,27-Nov,2,3,NA,NA
+107.243.50.141,79.578ms,*,78.392ms,www.payments.pitt.edu,27-Nov,3,3,NA,NA
+89.149.136.181,72.783ms,67.227ms,51.949ms,www.payments.pitt.edu,27-Nov,10,3,3257,"GTT-BACKBONE GTT, US"
+208.116.221.142,57.885ms,64.885ms,56.967ms,www.payments.pitt.edu,27-Nov,11,3,3257,"GTT-BACKBONE GTT, US"
+64.58.254.229,47.888ms,50.478ms,58.222ms,www.payments.pitt.edu,27-Nov,12,3,33154,"DQECOM, US"
+64.58.254.49,49.965ms,52.797ms,52.160ms,www.payments.pitt.edu,27-Nov,13,3,33154,"DQECOM, US"
+136.142.2.162,89.656ms,66.106ms,51.149ms,www.payments.pitt.edu,27-Nov,15,3,4130,"UPITT-AS, US"
+136.142.253.237,60.246ms,53.649ms,53.237ms,www.payments.pitt.edu,27-Nov,16,3,4130,"UPITT-AS, US"
+136.142.156.140,57.175ms,50.307ms,53.440ms,www.payments.pitt.edu,27-Nov,17,3,4130,"UPITT-AS, US"
+172.21.64.1,0.278ms,0.188ms,0.135ms,www.payments.pitt.edu,27-Nov,1,4,NA,NA
+172.20.10.1,4.271ms,4.767ms,2.635ms,www.payments.pitt.edu,27-Nov,2,4,NA,NA
+107.243.50.13,51.327ms,*,61.438ms,www.payments.pitt.edu,27-Nov,3,4,NA,NA
+173.241.128.29,45.044ms,47.161ms,*,www.payments.pitt.edu,27-Nov,9,4,3257,"GTT-BACKBONE GTT, US"
+89.149.136.181,63.489ms,57.411ms,67.356ms,www.payments.pitt.edu,27-Nov,10,4,3257,"GTT-BACKBONE GTT, US"
+208.116.221.142,83.498ms,56.661ms,59.805ms,www.payments.pitt.edu,27-Nov,11,4,3257,"GTT-BACKBONE GTT, US"
+64.58.254.229,49.789ms,48.913ms,56.180ms,www.payments.pitt.edu,27-Nov,12,4,33154,"DQECOM, US"
+64.58.254.49,54.855ms,61.713ms,50.924ms,www.payments.pitt.edu,27-Nov,13,4,33154,"DQECOM, US"
+136.142.2.162,56.643ms,52.583ms,52.920ms,www.payments.pitt.edu,27-Nov,15,4,4130,"UPITT-AS, US"
+136.142.253.237,58.810ms,50.788ms,59.605ms,www.payments.pitt.edu,27-Nov,16,4,4130,"UPITT-AS, US"
+136.142.156.140,52.789ms,61.994ms,55.428ms,www.payments.pitt.edu,27-Nov,17,4,4130,"UPITT-AS, US"
+172.21.64.1,0.292ms,0.187ms,0.130ms,www.payments.pitt.edu,27-Nov,1,5,NA,NA
+172.20.10.1,4.001ms,3.235ms,4.403ms,www.payments.pitt.edu,27-Nov,2,5,NA,NA
+107.243.50.13,65.386ms,*,62.778ms,www.payments.pitt.edu,27-Nov,3,5,NA,NA
+89.149.136.181,67.922ms,70.799ms,56.937ms,www.payments.pitt.edu,27-Nov,10,5,3257,"GTT-BACKBONE GTT, US"
+208.116.221.142,57.633ms,52.530ms,61.427ms,www.payments.pitt.edu,27-Nov,11,5,3257,"GTT-BACKBONE GTT, US"
+64.58.254.229,53.786ms,48.302ms,54.470ms,www.payments.pitt.edu,27-Nov,12,5,33154,"DQECOM, US"
+64.58.254.49,47.487ms,52.063ms,57.548ms,www.payments.pitt.edu,27-Nov,13,5,33154,"DQECOM, US"
+136.142.2.162,122.408ms,61.069ms,55.153ms,www.payments.pitt.edu,27-Nov,15,5,4130,"UPITT-AS, US"
+136.142.253.237,52.846ms,54.802ms,51.883ms,www.payments.pitt.edu,27-Nov,16,5,4130,"UPITT-AS, US"
+136.142.156.140,50.900ms,52.706ms,53.601ms,www.payments.pitt.edu,27-Nov,17,5,4130,"UPITT-AS, US"
+172.21.64.1,0.298ms,0.302ms,0.237ms,www.payments.pitt.edu,27-Nov,1,6,NA,NA
+172.20.10.1,24.461ms,12.880ms,2.060ms,www.payments.pitt.edu,27-Nov,2,6,NA,NA
+107.243.50.141,57.944ms,*,41.086ms,www.payments.pitt.edu,27-Nov,3,6,NA,NA
+89.149.136.181,97.466ms,69.650ms,55.504ms,www.payments.pitt.edu,27-Nov,10,6,3257,"GTT-BACKBONE GTT, US"
+208.116.221.142,62.546ms,73.240ms,63.115ms,www.payments.pitt.edu,27-Nov,11,6,3257,"GTT-BACKBONE GTT, US"
+64.58.254.229,57.497ms,48.175ms,64.889ms,www.payments.pitt.edu,27-Nov,12,6,33154,"DQECOM, US"
+64.58.254.49,79.997ms,54.489ms,76.126ms,www.payments.pitt.edu,27-Nov,13,6,33154,"DQECOM, US"
+136.142.2.162,203.411ms,52.260ms,52.923ms,www.payments.pitt.edu,27-Nov,15,6,4130,"UPITT-AS, US"
+136.142.253.237,63.940ms,53.594ms,60.733ms,www.payments.pitt.edu,27-Nov,16,6,4130,"UPITT-AS, US"
+136.142.156.140,53.919ms,61.307ms,55.523ms,www.payments.pitt.edu,27-Nov,17,6,4130,"UPITT-AS, US"
+172.21.64.1,0.359ms,0.310ms,0.233ms,www.wikipedia.org,27-Nov,1,1,NA,NA
+172.20.10.1,4.447ms,2.188ms,2.335ms,www.wikipedia.org,27-Nov,2,1,NA,NA
+107.243.50.141,29.281ms,*,62.617ms,www.wikipedia.org,27-Nov,3,1,NA,NA
+172.21.64.1,0.186ms,0.136ms,0.116ms,www.wikipedia.org,27-Nov,1,2,NA,NA
+172.20.10.1,3.108ms,3.627ms,2.406ms,www.wikipedia.org,27-Nov,2,2,NA,NA
+107.243.50.13,41.219ms,*,37.262ms,www.wikipedia.org,27-Nov,3,2,NA,NA
+172.21.64.1,0.584ms,0.299ms,0.175ms,www.wikipedia.org,27-Nov,1,3,NA,NA
+172.20.10.1,3.337ms,2.879ms,2.844ms,www.wikipedia.org,27-Nov,2,3,NA,NA
+107.243.50.13,38.816ms,*,58.355ms,www.wikipedia.org,27-Nov,3,3,NA,NA
+172.21.64.1,0.417ms,0.309ms,0.231ms,www.wikipedia.org,27-Nov,1,4,NA,NA
+172.20.10.1,2.661ms,4.231ms,2.088ms,www.wikipedia.org,27-Nov,2,4,NA,NA
+107.243.50.141,58.479ms,*,34.386ms,www.wikipedia.org,27-Nov,3,4,NA,NA
+172.21.64.1,0.194ms,0.090ms,0.091ms,www.wikipedia.org,27-Nov,1,5,NA,NA
+172.20.10.1,2.281ms,1.721ms,2.039ms,www.wikipedia.org,27-Nov,2,5,NA,NA
+107.243.50.13,65.796ms,*,47.406ms,www.wikipedia.org,27-Nov,3,5,NA,NA
+172.21.64.1,0.430ms,0.436ms,0.470ms,www.wikipedia.org,27-Nov,1,6,NA,NA
+172.20.10.1,4.390ms,2.889ms,2.665ms,www.wikipedia.org,27-Nov,2,6,NA,NA
+107.243.50.141,32.747ms,*,60.337ms,www.wikipedia.org,27-Nov,3,6,NA,NA
+172.21.64.1,0.277ms,0.328ms,0.194ms,www.amazon.com,28-Nov,1,1,NA,NA
+172.20.10.1,2.305ms,3.301ms,2.127ms,www.amazon.com,28-Nov,2,1,NA,NA
+107.243.2.135,39.267ms,*,70.730ms,www.amazon.com,28-Nov,3,1,NA,NA
+12.127.81.202,75.450ms,37.088ms,38.918ms,www.amazon.com,28-Nov,9,1,7018,"ATT-INTERNET4, US"
+172.21.64.1,0.146ms,0.163ms,0.087ms,www.amazon.com,28-Nov,1,2,NA,NA
+172.20.10.1,3.848ms,2.634ms,3.961ms,www.amazon.com,28-Nov,2,2,NA,NA
+107.243.2.7,29.918ms,*,58.004ms,www.amazon.com,28-Nov,3,2,NA,NA
+172.21.64.1,0.235ms,0.167ms,0.212ms,www.amazon.com,28-Nov,1,3,NA,NA
+172.20.10.1,2.644ms,2.887ms,2.645ms,www.amazon.com,28-Nov,2,3,NA,NA
+107.243.2.135,30.122ms,*,67.326ms,www.amazon.com,28-Nov,3,3,NA,NA
+172.21.64.1,0.642ms,0.229ms,0.174ms,www.amazon.com,28-Nov,1,4,NA,NA
+172.20.10.1,3.255ms,3.134ms,2.297ms,www.amazon.com,28-Nov,2,4,NA,NA
+107.243.2.7,30.922ms,*,32.324ms,www.amazon.com,28-Nov,3,4,NA,NA
+172.21.64.1,0.451ms,0.353ms,0.186ms,www.amazon.com,28-Nov,1,5,NA,NA
+172.20.10.1,2.307ms,15.391ms,6.490ms,www.amazon.com,28-Nov,2,5,NA,NA
+107.243.2.7,67.009ms,*,49.898ms,www.amazon.com,28-Nov,3,5,NA,NA
+172.21.64.1,0.279ms,0.209ms,0.208ms,www.amazon.com,28-Nov,1,6,NA,NA
+172.20.10.1,12.272ms,5.059ms,8.112ms,www.amazon.com,28-Nov,2,6,NA,NA
+107.243.2.135,41.194ms,*,28.912ms,www.amazon.com,28-Nov,3,6,NA,NA
+172.21.64.1,0.182ms,0.206ms,0.193ms,www.google.com,28-Nov,1,1,NA,NA
+172.20.10.1,7.589ms,2.138ms,3.431ms,www.google.com,28-Nov,2,1,NA,NA
+107.243.2.7,81.170ms,*,74.161ms,www.google.com,28-Nov,3,1,NA,NA
+142.250.190.100,84.108ms,47.358ms,47.867ms,www.google.com,28-Nov,14,1,15169,"GOOGLE, US"
+172.21.64.1,0.298ms,0.186ms,0.159ms,www.google.com,28-Nov,1,2,NA,NA
+172.20.10.1,4.725ms,6.193ms,3.914ms,www.google.com,28-Nov,2,2,NA,NA
+107.243.2.7,66.974ms,*,37.558ms,www.google.com,28-Nov,3,2,NA,NA
+142.251.60.22,259.208ms,58.966ms,40.517ms,www.google.com,28-Nov,12,2,15169,"GOOGLE, US"
+142.250.190.100,82.674ms,61.162ms,40.177ms,www.google.com,28-Nov,14,2,15169,"GOOGLE, US"
+172.21.64.1,0.196ms,0.214ms,0.343ms,www.google.com,28-Nov,1,3,NA,NA
+172.20.10.1,8.977ms,2.695ms,2.766ms,www.google.com,28-Nov,2,3,NA,NA
+107.243.2.7,35.473ms,*,42.866ms,www.google.com,28-Nov,3,3,NA,NA
+142.251.231.250,81.245ms,46.805ms,43.561ms,www.google.com,28-Nov,12,3,15169,"GOOGLE, US"
+142.251.60.207,37.218ms,37.890ms,46.216ms,www.google.com,28-Nov,13,3,15169,"GOOGLE, US"
+142.251.233.230,37.886ms,38.541ms,38.849ms,www.google.com,28-Nov,14,3,15169,"GOOGLE, US"
+142.250.190.100,88.781ms,50.383ms,38.179ms,www.google.com,28-Nov,16,3,15169,"GOOGLE, US"
+172.21.64.1,0.352ms,0.234ms,0.216ms,www.google.com,28-Nov,1,4,NA,NA
+172.20.10.1,2.690ms,8.294ms,2.758ms,www.google.com,28-Nov,2,4,NA,NA
+107.243.2.7,46.370ms,*,*,www.google.com,28-Nov,3,4,NA,NA
+*,142.251.60.10,363.716ms,47.455ms,www.google.com,28-Nov,12,4,,
+142.251.234.72,56.821ms,40.774ms,46.419ms,www.google.com,28-Nov,15,4,15169,"GOOGLE, US"
+172.217.5.4,44.891ms,44.900ms,41.180ms,www.google.com,28-Nov,16,4,15169,"GOOGLE, US"
+172.21.64.1,0.174ms,0.142ms,0.117ms,www.google.com,28-Nov,1,5,NA,NA
+172.20.10.1,2.811ms,2.533ms,2.453ms,www.google.com,28-Nov,2,5,NA,NA
+107.243.2.135,33.208ms,*,67.155ms,www.google.com,28-Nov,3,5,NA,NA
+172.217.5.4,63.714ms,46.124ms,42.649ms,www.google.com,28-Nov,14,5,15169,"GOOGLE, US"
+172.21.64.1,0.155ms,0.109ms,0.085ms,www.google.com,28-Nov,1,6,NA,NA
+172.20.10.1,5.803ms,2.161ms,3.726ms,www.google.com,28-Nov,2,6,NA,NA
+107.243.2.135,88.603ms,*,55.563ms,www.google.com,28-Nov,3,6,NA,NA
+172.217.5.4,95.707ms,36.478ms,79.821ms,www.google.com,28-Nov,14,6,15169,"GOOGLE, US"
+172.21.112.1,0.186ms,0.084ms,0.070ms,www.linkedin.com,28-Nov,1,1,NA,NA
+172.20.10.1,2.442ms,2.149ms,1.925ms,www.linkedin.com,28-Nov,2,1,NA,NA
+107.243.2.134,33.570ms,*,42.927ms,www.linkedin.com,28-Nov,3,1,NA,NA
+172.21.112.1,0.582ms,0.407ms,0.523ms,www.linkedin.com,28-Nov,1,2,NA,NA
+172.20.10.1,3.000ms,2.459ms,2.540ms,www.linkedin.com,28-Nov,2,2,NA,NA
+107.243.2.134,26.893ms,*,53.009ms,www.linkedin.com,28-Nov,3,2,NA,NA
+32.141.192.2,57.896ms,*,*,www.linkedin.com,28-Nov,10,2,7018,"ATT-INTERNET4, US"
+172.21.112.1,0.238ms,0.086ms,0.077ms,www.linkedin.com,28-Nov,1,3,NA,NA
+172.20.10.1,2.312ms,2.324ms,2.021ms,www.linkedin.com,28-Nov,2,3,NA,NA
+107.243.2.6,27.975ms,*,48.231ms,www.linkedin.com,28-Nov,3,3,NA,NA
+104.44.237.17,50.903ms,42.753ms,*,www.linkedin.com,28-Nov,11,3,8075,"MICROSOFT-CORP-MSN-AS-BLOCK, US"
+104.44.236.20,53.275ms,52.316ms,53.475ms,www.linkedin.com,28-Nov,12,3,8075,"MICROSOFT-CORP-MSN-AS-BLOCK, US"
+172.21.112.1,0.423ms,0.226ms,0.144ms,www.linkedin.com,28-Nov,1,4,NA,NA
+172.20.10.1,3.506ms,2.594ms,2.502ms,www.linkedin.com,28-Nov,2,4,NA,NA
+107.243.2.134,26.630ms,*,96.552ms,www.linkedin.com,28-Nov,3,4,NA,NA
+172.21.112.1,0.690ms,0.548ms,0.478ms,www.linkedin.com,28-Nov,1,5,NA,NA
+172.20.10.1,2.821ms,2.498ms,2.475ms,www.linkedin.com,28-Nov,2,5,NA,NA
+107.243.2.134,30.254ms,*,49.957ms,www.linkedin.com,28-Nov,3,5,NA,NA
+172.21.112.1,0.194ms,0.095ms,0.087ms,www.linkedin.com,28-Nov,1,6,NA,NA
+172.20.10.1,2.204ms,1.962ms,2.012ms,www.linkedin.com,28-Nov,2,6,,
+107.243.2.134,28.101ms,*,40.060ms,www.linkedin.com,28-Nov,3,6,NA,NA
+32.141.192.2,56.602ms,44.357ms,47.323ms,www.linkedin.com,28-Nov,10,6,7018,"ATT-INTERNET4, US"
+172.21.64.1,0.223ms,0.254ms,0.167ms,www.payments.pitt.edu,28-Nov,1,1,NA,NA
+172.20.10.1,4.038ms,5.550ms,3.057ms,www.payments.pitt.edu,28-Nov,2,1,NA,NA
+107.243.2.135,63.843ms,*,36.572ms,www.payments.pitt.edu,28-Nov,3,1,NA,NA
+89.149.136.181,98.079ms,50.730ms,71.379ms,www.payments.pitt.edu,28-Nov,10,1,3257,"GTT-BACKBONE GTT, US"
+208.116.221.142,71.961ms,56.495ms,59.067ms,www.payments.pitt.edu,28-Nov,11,1,3257,"GTT-BACKBONE GTT, US"
+64.58.254.229,57.783ms,60.048ms,61.463ms,www.payments.pitt.edu,28-Nov,12,1,33154,"DQECOM, US"
+64.58.254.49,89.353ms,59.945ms,56.716ms,www.payments.pitt.edu,28-Nov,13,1,33154,"DQECOM, US"
+208.103.114.14,76.407ms,62.652ms,76.047ms,www.payments.pitt.edu,28-Nov,14,1,33154,"DQECOM, US"
+136.142.2.162,54.537ms,57.223ms,59.126ms,www.payments.pitt.edu,28-Nov,15,1,4130,"UPITT-AS, US"
+136.142.253.237,72.501ms,59.986ms,65.152ms,www.payments.pitt.edu,28-Nov,16,1,4130,"UPITT-AS, US"
+136.142.156.140,55.307ms,63.462ms,53.810ms,www.payments.pitt.edu,28-Nov,17,1,4130,"UPITT-AS, US"
+172.21.64.1,0.222ms,0.202ms,0.216ms,www.payments.pitt.edu,28-Nov,1,2,NA,NA
+172.20.10.1,5.557ms,1.999ms,2.726ms,www.payments.pitt.edu,28-Nov,2,2,NA,NA
+107.243.2.135,41.706ms,*,55.379ms,www.payments.pitt.edu,28-Nov,3,2,NA,NA
+89.149.136.181,74.746ms,66.672ms,83.766ms,www.payments.pitt.edu,28-Nov,10,2,3257,"GTT-BACKBONE GTT, US"
+208.116.221.142,68.201ms,58.971ms,54.282ms,www.payments.pitt.edu,28-Nov,11,2,3257,"GTT-BACKBONE GTT, US"
+64.58.254.229,65.230ms,76.661ms,61.877ms,www.payments.pitt.edu,28-Nov,12,2,33154,"DQECOM, US"
+64.58.254.49,87.424ms,97.932ms,73.972ms,www.payments.pitt.edu,28-Nov,13,2,33154,"DQECOM, US"
+136.142.2.162,82.053ms,84.001ms,57.683ms,www.payments.pitt.edu,28-Nov,15,2,4130,"UPITT-AS, US"
+136.142.253.237,97.683ms,81.858ms,78.308ms,www.payments.pitt.edu,28-Nov,16,2,4130,"UPITT-AS, US"
+136.142.156.140,65.713ms,48.569ms,59.008ms,www.payments.pitt.edu,28-Nov,17,2,4130,"UPITT-AS, US"
+172.21.64.1,0.383ms,0.527ms,0.249ms,www.payments.pitt.edu,28-Nov,1,3,NA,NA
+172.20.10.1,3.748ms,4.365ms,2.268ms,www.payments.pitt.edu,28-Nov,2,3,NA,NA
+107.243.2.134,45.417ms,*,67.094ms,www.payments.pitt.edu,28-Nov,3,3,NA,NA
+89.149.136.181,48.719ms,67.640ms,58.083ms,www.payments.pitt.edu,28-Nov,10,3,3257,"GTT-BACKBONE GTT, US"
+208.116.221.142,133.009ms,0.007ms,67.528ms,www.payments.pitt.edu,28-Nov,11,3,3257,"GTT-BACKBONE GTT, US"
+64.58.254.229,58.427ms,64.045ms,52.465ms,www.payments.pitt.edu,28-Nov,12,3,33154,"DQECOM, US"
+64.58.254.49,49.611ms,76.996ms,66.747ms,www.payments.pitt.edu,28-Nov,13,3,33154,"DQECOM, US"
+136.142.2.162,75.765ms,73.720ms,71.758ms,www.payments.pitt.edu,28-Nov,15,3,4130,"UPITT-AS, US"
+136.142.253.237,52.354ms,61.748ms,61.196ms,www.payments.pitt.edu,28-Nov,16,3,4130,"UPITT-AS, US"
+136.142.156.140,75.681ms,57.870ms,45.772ms,www.payments.pitt.edu,28-Nov,17,3,4130,"UPITT-AS, US"
+172.21.64.1,0.420ms,0.352ms,0.307ms,www.payments.pitt.edu,28-Nov,1,4,NA,NA
+172.20.10.1,7.664ms,3.359ms,2.266ms,www.payments.pitt.edu,28-Nov,2,4,NA,NA
+107.243.2.134,39.027ms,*,61.470ms,www.payments.pitt.edu,28-Nov,3,4,NA,NA
+89.149.136.181,101.439ms,78.660ms,55.098ms,www.payments.pitt.edu,28-Nov,10,4,3257,"GTT-BACKBONE GTT, US"
+208.116.221.142,53.281ms,47.164ms,55.747ms,www.payments.pitt.edu,28-Nov,11,4,3257,"GTT-BACKBONE GTT, US"
+64.58.254.229,46.496ms,71.351ms,71.188ms,www.payments.pitt.edu,28-Nov,12,4,33154,"DQECOM, US"
+64.58.254.49,64.096ms,59.006ms,60.321ms,www.payments.pitt.edu,28-Nov,13,4,33154,"DQECOM, US"
+136.142.2.162,90.236ms,50.526ms,59.435ms,www.payments.pitt.edu,28-Nov,15,4,4130,"UPITT-AS, US"
+136.142.253.237,54.957ms,58.225ms,70.674ms,www.payments.pitt.edu,28-Nov,16,4,4130,"UPITT-AS, US"
+136.142.156.140,75.224ms,67.140ms,62.749ms,www.payments.pitt.edu,28-Nov,17,4,4130,"UPITT-AS, US"
+172.21.64.1,0.385ms,0.421ms,0.304ms,www.payments.pitt.edu,28-Nov,1,5,NA,NA
+172.20.10.1,4.640ms,5.033ms,2.931ms,www.payments.pitt.edu,28-Nov,2,5,NA,NA
+107.243.2.134,63.449ms,*,66.890ms,www.payments.pitt.edu,28-Nov,3,5,NA,NA
+89.149.136.181,96.813ms,51.300ms,65.122ms,www.payments.pitt.edu,28-Nov,10,5,3257,"GTT-BACKBONE GTT, US"
+208.116.221.142,69.875ms,66.219ms,58.795ms,www.payments.pitt.edu,28-Nov,11,5,3257,"GTT-BACKBONE GTT, US"
+64.58.254.229,43.158ms,54.622ms,58.539ms,www.payments.pitt.edu,28-Nov,12,5,33154,"DQECOM, US"
+64.58.254.49,64.855ms,55.694ms,42.620ms,www.payments.pitt.edu,28-Nov,13,5,33154,"DQECOM, US"
+136.142.2.162,97.307ms,66.771ms,59.577ms,www.payments.pitt.edu,28-Nov,15,5,4130,"UPITT-AS, US"
+136.142.253.237,85.028ms,50.295ms,53.234ms,www.payments.pitt.edu,28-Nov,16,5,4130,"UPITT-AS, US"
+136.142.156.140,72.522ms,59.013ms,56.874ms,www.payments.pitt.edu,28-Nov,17,5,4130,"UPITT-AS, US"
+172.21.64.1,0.389ms,0.155ms,0.192ms,www.payments.pitt.edu,28-Nov,1,6,NA,NA
+172.20.10.1,5.158ms,2.583ms,2.769ms,www.payments.pitt.edu,28-Nov,2,6,NA,NA
+107.243.2.134,60.257ms,*,49.674ms,www.payments.pitt.edu,28-Nov,3,6,NA,NA
+173.241.128.29,43.745ms,51.404ms,53.085ms,www.payments.pitt.edu,28-Nov,9,6,3257,"GTT-BACKBONE GTT, US"
+89.149.136.181,70.074ms,59.351ms,71.270ms,www.payments.pitt.edu,28-Nov,10,6,3257,"GTT-BACKBONE GTT, US"
+208.116.221.142,76.062ms,74.622ms,58.801ms,www.payments.pitt.edu,28-Nov,11,6,3257,"GTT-BACKBONE GTT, US"
+64.58.254.229,59.545ms,62.064ms,66.370ms,www.payments.pitt.edu,28-Nov,12,6,33154,"DQECOM, US"
+64.58.254.49,67.024ms,57.109ms,54.162ms,www.payments.pitt.edu,28-Nov,13,6,33154,"DQECOM, US"
+208.103.114.14,56.593ms,61.297ms,88.823ms,www.payments.pitt.edu,28-Nov,14,6,33154,"DQECOM, US"
+136.142.2.162,58.368ms,55.760ms,53.192ms,www.payments.pitt.edu,28-Nov,15,6,4130,"UPITT-AS, US"
+136.142.253.237,45.747ms,103.614ms,74.279ms,www.payments.pitt.edu,28-Nov,16,6,4130,"UPITT-AS, US"
+136.142.156.140,57.297ms,60.923ms,60.332ms,www.payments.pitt.edu,28-Nov,17,6,4130,"UPITT-AS, US"
+172.21.64.1,0.430ms,0.319ms,0.249ms,www.wikipedia.org,28-Nov,1,1,NA,NA
+172.20.10.1,8.176ms,17.248ms,17.284ms,www.wikipedia.org,28-Nov,2,1,NA,NA
+107.243.2.134,42.731ms,*,73.610ms,www.wikipedia.org,28-Nov,3,1,NA,NA
+172.21.64.1,0.167ms,0.123ms,0.108ms,www.wikipedia.org,28-Nov,1,2,NA,NA
+172.20.10.1,6.967ms,7.174ms,4.635ms,www.wikipedia.org,28-Nov,2,2,NA,NA
+107.243.2.134,69.111ms,*,53.289ms,www.wikipedia.org,28-Nov,3,2,NA,NA
+172.21.64.1,0.578ms,0.264ms,0.388ms,www.wikipedia.org,28-Nov,1,3,NA,NA
+172.20.10.1,2.595ms,2.247ms,2.405ms,www.wikipedia.org,28-Nov,2,3,NA,NA
+107.243.2.134,23.804ms,*,30.577ms,www.wikipedia.org,28-Nov,3,3,NA,NA
+172.21.64.1,0.205ms,0.189ms,0.163ms,www.wikipedia.org,28-Nov,1,4,NA,NA
+172.20.10.1,2.649ms,2.222ms,2.454ms,www.wikipedia.org,28-Nov,2,4,NA,NA
+107.243.2.6,21.810ms,*,57.447ms,www.wikipedia.org,28-Nov,3,4,NA,NA
+172.21.64.1,1.201ms,0.201ms,0.181ms,www.wikipedia.org,28-Nov,1,5,NA,NA
+172.20.10.1,3.367ms,2.531ms,2.408ms,www.wikipedia.org,28-Nov,2,5,NA,NA
+107.243.2.6,24.111ms,*,56.067ms,www.wikipedia.org,28-Nov,3,5,NA,NA
+172.21.64.1,0.508ms,0.254ms,0.351ms,www.wikipedia.org,28-Nov,1,6,NA,NA
+172.20.10.1,2.868ms,2.693ms,2.081ms,www.wikipedia.org,28-Nov,2,6,NA,NA
+107.243.2.6,30.643ms,*,56.957ms,www.wikipedia.org,28-Nov,3,6,NA,NA
