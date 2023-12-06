@@ -382,7 +382,7 @@ IP,RTT1,RTT2,RTT3,Domain Name,Date,Hop Number,Run Number,AS Number,AS Name
 172.31.160.1,0.510ms,0.494ms,0.573ms,www.linkedin.com,26-Nov,1,1,NA,NA
 172.20.10.1,2.471ms,1.943ms,1.943ms,www.linkedin.com,26-Nov,2,1,NA,NA
 107.243.2.3,51.562ms,*,67.094ms,www.linkedin.com,26-Nov,3,1,NA,NA
-*,*,32.141.192.2,64.178ms,www.linkedin.com,26-Nov,10,1,,
+32.141.192.2,*,*,64.178ms,www.linkedin.com,26-Nov,10,1,,
 172.31.160.1,0.462ms,0.343ms,0.355ms,www.linkedin.com,26-Nov,1,2,NA,NA
 172.20.10.1,2.747ms,2.680ms,2.481ms,www.linkedin.com,26-Nov,2,2,NA,NA
 107.243.2.131,28.584ms,*,52.121ms,www.linkedin.com,26-Nov,3,2,NA,NA
